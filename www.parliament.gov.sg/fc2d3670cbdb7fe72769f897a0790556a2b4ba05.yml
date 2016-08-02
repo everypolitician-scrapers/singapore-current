@@ -1,0 +1,49 @@
+---
+request:
+  method: get
+  uri: http://www.parliament.gov.sg/mp/gan-thiam-poh
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - '*/*'
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Content-Type:
+    - text/html; charset=utf-8
+    Content-Language:
+    - en
+    Last-Modified:
+    - Tue, 02 Aug 2016 09:09:12 GMT
+    Etag:
+    - '"1470128952"'
+    Link:
+    - </node/482>; rel="shortlink",</mp/gan-thiam-poh>; rel="canonical"
+    X-Generator:
+    - Drupal 7 (http://drupal.org)
+    X-Frame-Options:
+    - SAMEORIGIN
+    Server:
+    - ''
+    Content-Length:
+    - '38504'
+    Cache-Control:
+    - no-cache, must-revalidate, post-check=0, pre-check=0
+    Expires:
+    - Tue, 02 Aug 2016 09:09:25 GMT
+    Date:
+    - Tue, 02 Aug 2016 09:09:25 GMT
+    Connection:
+    - keep-alive
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Tue, 02 Aug 2016 09:09:25 GMT
