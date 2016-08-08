@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 06 Aug 2016 22:53:13 GMT
+    - Mon, 08 Aug 2016 03:44:49 GMT
     Etag:
-    - '"1470523993"'
+    - '"1470627889"'
     Link:
     - </node/337>; rel="shortlink",</mp/teo-chee-hean>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 06 Aug 2016 22:53:24 GMT
+    - Mon, 08 Aug 2016 03:44:53 GMT
     Date:
-    - Sat, 06 Aug 2016 22:53:24 GMT
+    - Mon, 08 Aug 2016 03:44:53 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 06 Aug 2016 22:53:25 GMT
+recorded_at: Mon, 08 Aug 2016 03:44:58 GMT
