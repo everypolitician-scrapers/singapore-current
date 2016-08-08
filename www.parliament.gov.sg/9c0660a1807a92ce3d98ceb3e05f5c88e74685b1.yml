@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 06 Aug 2016 22:30:43 GMT
+    - Mon, 08 Aug 2016 02:59:38 GMT
     Etag:
-    - '"1470522643"'
+    - '"1470625178"'
     Link:
     - </node/486>; rel="shortlink",</mp/heng-swee-keat>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 06 Aug 2016 22:30:54 GMT
+    - Mon, 08 Aug 2016 02:59:42 GMT
     Date:
-    - Sat, 06 Aug 2016 22:30:54 GMT
+    - Mon, 08 Aug 2016 02:59:42 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 06 Aug 2016 22:30:54 GMT
+recorded_at: Mon, 08 Aug 2016 02:59:47 GMT
