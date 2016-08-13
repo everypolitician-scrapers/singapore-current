@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 12 Aug 2016 12:41:30 GMT
+    - Sat, 13 Aug 2016 07:58:11 GMT
     Etag:
-    - '"1471005690"'
+    - '"1471075091"'
     Link:
     - </node/654>; rel="shortlink",</mp/kok-heng-leun>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 12 Aug 2016 12:41:36 GMT
+    - Sat, 13 Aug 2016 07:58:17 GMT
     Date:
-    - Fri, 12 Aug 2016 12:41:36 GMT
+    - Sat, 13 Aug 2016 07:58:17 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 12 Aug 2016 12:41:36 GMT
+recorded_at: Sat, 13 Aug 2016 07:58:17 GMT
