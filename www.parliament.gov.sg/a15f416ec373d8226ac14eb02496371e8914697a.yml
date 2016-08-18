@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 17 Aug 2016 15:47:39 GMT
+    - Thu, 18 Aug 2016 04:31:24 GMT
     Etag:
-    - '"1471448859"'
+    - '"1471494684"'
     Link:
     - </node/596>; rel="shortlink",</mp/cheng-li-hui>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 17 Aug 2016 15:47:48 GMT
+    - Thu, 18 Aug 2016 04:31:33 GMT
     Date:
-    - Wed, 17 Aug 2016 15:47:48 GMT
+    - Thu, 18 Aug 2016 04:31:33 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 17 Aug 2016 15:47:48 GMT
+recorded_at: Thu, 18 Aug 2016 04:31:33 GMT
