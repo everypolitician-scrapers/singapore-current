@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 18 Aug 2016 04:48:21 GMT
+    - Fri, 19 Aug 2016 07:14:30 GMT
     Etag:
-    - '"1471495701"'
+    - '"1471590870"'
     Link:
     - </node/608>; rel="shortlink",</mp/sun-xueling>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 18 Aug 2016 04:48:30 GMT
+    - Fri, 19 Aug 2016 07:14:41 GMT
     Date:
-    - Thu, 18 Aug 2016 04:48:30 GMT
+    - Fri, 19 Aug 2016 07:14:41 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 18 Aug 2016 04:48:31 GMT
+recorded_at: Fri, 19 Aug 2016 07:14:41 GMT
