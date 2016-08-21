@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 20 Aug 2016 07:54:03 GMT
+    - Sun, 21 Aug 2016 20:20:08 GMT
     Etag:
-    - '"1471679643"'
+    - '"1471810808"'
     Link:
     - </node/502>; rel="shortlink",</mp/low-yen-ling>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 20 Aug 2016 07:54:14 GMT
+    - Sun, 21 Aug 2016 20:20:12 GMT
     Date:
-    - Sat, 20 Aug 2016 07:54:14 GMT
+    - Sun, 21 Aug 2016 20:20:12 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 20 Aug 2016 07:54:14 GMT
+recorded_at: Sun, 21 Aug 2016 20:20:12 GMT
