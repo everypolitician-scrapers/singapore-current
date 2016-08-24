@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 23 Aug 2016 21:44:17 GMT
+    - Wed, 24 Aug 2016 12:19:21 GMT
     Etag:
-    - '"1471988657"'
+    - '"1472041161"'
     Link:
     - </node/339>; rel="shortlink",</mp/zaqy-mohamad>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 23 Aug 2016 21:44:23 GMT
+    - Wed, 24 Aug 2016 12:19:29 GMT
     Date:
-    - Tue, 23 Aug 2016 21:44:23 GMT
+    - Wed, 24 Aug 2016 12:19:29 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 23 Aug 2016 21:44:24 GMT
+recorded_at: Wed, 24 Aug 2016 12:19:29 GMT
