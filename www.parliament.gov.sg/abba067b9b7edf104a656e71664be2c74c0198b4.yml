@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 23 Aug 2016 21:30:27 GMT
+    - Wed, 24 Aug 2016 12:05:41 GMT
     Etag:
-    - '"1471987827"'
+    - '"1472040341"'
     Link:
     - </node/311>; rel="shortlink",</mp/lim-wee-kiak>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 23 Aug 2016 21:30:33 GMT
+    - Wed, 24 Aug 2016 12:05:48 GMT
     Date:
-    - Tue, 23 Aug 2016 21:30:33 GMT
+    - Wed, 24 Aug 2016 12:05:48 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 23 Aug 2016 21:30:33 GMT
+recorded_at: Wed, 24 Aug 2016 12:05:48 GMT
