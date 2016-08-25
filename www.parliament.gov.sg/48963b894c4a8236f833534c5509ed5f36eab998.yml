@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 24 Aug 2016 12:10:47 GMT
+    - Thu, 25 Aug 2016 16:22:46 GMT
     Etag:
-    - '"1472040647"'
+    - '"1472142166"'
     Link:
     - </node/557>; rel="shortlink",</mp/png-eng-huat>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 24 Aug 2016 12:10:54 GMT
+    - Thu, 25 Aug 2016 16:22:56 GMT
     Date:
-    - Wed, 24 Aug 2016 12:10:54 GMT
+    - Thu, 25 Aug 2016 16:22:56 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 24 Aug 2016 12:10:54 GMT
+recorded_at: Thu, 25 Aug 2016 16:22:56 GMT
