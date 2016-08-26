@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 25 Aug 2016 16:22:08 GMT
+    - Fri, 26 Aug 2016 14:13:40 GMT
     Etag:
-    - '"1472142128"'
+    - '"1472220820"'
     Link:
     - </node/613>; rel="shortlink",</mp/leon-perera>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 25 Aug 2016 16:22:18 GMT
+    - Fri, 26 Aug 2016 14:13:50 GMT
     Date:
-    - Thu, 25 Aug 2016 16:22:18 GMT
+    - Fri, 26 Aug 2016 14:13:50 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 25 Aug 2016 16:22:18 GMT
+recorded_at: Fri, 26 Aug 2016 14:13:50 GMT
