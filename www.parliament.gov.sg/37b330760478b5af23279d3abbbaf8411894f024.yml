@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 26 Aug 2016 14:14:14 GMT
+    - Sat, 27 Aug 2016 23:07:21 GMT
     Etag:
-    - '"1472220854"'
+    - '"1472339241"'
     Link:
     - </node/507>; rel="shortlink",</mp/pritam-singh>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 26 Aug 2016 14:14:24 GMT
+    - Sat, 27 Aug 2016 23:07:32 GMT
     Date:
-    - Fri, 26 Aug 2016 14:14:24 GMT
+    - Sat, 27 Aug 2016 23:07:32 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 26 Aug 2016 14:14:24 GMT
+recorded_at: Sat, 27 Aug 2016 23:07:32 GMT
