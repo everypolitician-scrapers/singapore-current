@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 30 Aug 2016 14:23:53 GMT
+    - Wed, 31 Aug 2016 14:35:11 GMT
     Etag:
-    - '"1472567033"'
+    - '"1472654111"'
     Link:
     - </node/296>; rel="shortlink",</mp/liang-eng-hwa>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 30 Aug 2016 14:24:00 GMT
+    - Wed, 31 Aug 2016 14:35:19 GMT
     Date:
-    - Tue, 30 Aug 2016 14:24:00 GMT
+    - Wed, 31 Aug 2016 14:35:19 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 30 Aug 2016 14:24:00 GMT
+recorded_at: Wed, 31 Aug 2016 14:35:19 GMT
