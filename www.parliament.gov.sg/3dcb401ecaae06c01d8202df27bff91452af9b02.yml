@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 01 Sep 2016 02:50:06 GMT
+    - Fri, 02 Sep 2016 22:16:47 GMT
     Etag:
-    - '"1472698206"'
+    - '"1472854607"'
     Link:
     - </node/656>; rel="shortlink",</mp/k-thanaletchimi>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 01 Sep 2016 02:50:14 GMT
+    - Fri, 02 Sep 2016 22:16:53 GMT
     Date:
-    - Thu, 01 Sep 2016 02:50:14 GMT
+    - Fri, 02 Sep 2016 22:16:53 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 01 Sep 2016 02:50:14 GMT
+recorded_at: Fri, 02 Sep 2016 22:16:53 GMT
