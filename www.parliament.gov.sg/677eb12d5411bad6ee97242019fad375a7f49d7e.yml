@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 01 Sep 2016 02:46:35 GMT
+    - Fri, 02 Sep 2016 22:13:24 GMT
     Etag:
-    - '"1472697995"'
+    - '"1472854404"'
     Link:
     - </node/263>; rel="shortlink",</mp/k-shanmugam>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 01 Sep 2016 02:46:44 GMT
+    - Fri, 02 Sep 2016 22:13:30 GMT
     Date:
-    - Thu, 01 Sep 2016 02:46:44 GMT
+    - Fri, 02 Sep 2016 22:13:30 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 01 Sep 2016 02:46:44 GMT
+recorded_at: Fri, 02 Sep 2016 22:13:30 GMT
