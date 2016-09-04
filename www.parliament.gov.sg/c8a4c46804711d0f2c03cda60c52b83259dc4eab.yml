@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 03 Sep 2016 06:36:38 GMT
+    - Sun, 04 Sep 2016 18:00:33 GMT
     Etag:
-    - '"1472884598"'
+    - '"1473012033"'
     Link:
     - </node/606>; rel="shortlink",</mp/rahayu-mahzam>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 03 Sep 2016 06:36:44 GMT
+    - Sun, 04 Sep 2016 18:00:38 GMT
     Date:
-    - Sat, 03 Sep 2016 06:36:44 GMT
+    - Sun, 04 Sep 2016 18:00:38 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 03 Sep 2016 06:36:44 GMT
+recorded_at: Sun, 04 Sep 2016 18:00:38 GMT
