@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 06 Sep 2016 22:13:21 GMT
+    - Wed, 07 Sep 2016 06:08:13 GMT
     Etag:
-    - '"1473200001"'
+    - '"1473228493"'
     Link:
     - </node/461>; rel="shortlink",</mp/heng-chee-how>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 06 Sep 2016 22:13:29 GMT
+    - Wed, 07 Sep 2016 06:08:21 GMT
     Date:
-    - Tue, 06 Sep 2016 22:13:29 GMT
+    - Wed, 07 Sep 2016 06:08:21 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 06 Sep 2016 22:13:29 GMT
+recorded_at: Wed, 07 Sep 2016 06:08:21 GMT
