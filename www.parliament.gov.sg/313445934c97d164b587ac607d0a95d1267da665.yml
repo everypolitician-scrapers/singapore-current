@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 06 Sep 2016 22:21:23 GMT
+    - Wed, 07 Sep 2016 06:15:52 GMT
     Etag:
-    - '"1473200483"'
+    - '"1473228952"'
     Link:
     - </node/602>; rel="shortlink",</mp/ng-chee-meng>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 06 Sep 2016 22:21:31 GMT
+    - Wed, 07 Sep 2016 06:16:01 GMT
     Date:
-    - Tue, 06 Sep 2016 22:21:31 GMT
+    - Wed, 07 Sep 2016 06:16:01 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 06 Sep 2016 22:21:31 GMT
+recorded_at: Wed, 07 Sep 2016 06:16:01 GMT
