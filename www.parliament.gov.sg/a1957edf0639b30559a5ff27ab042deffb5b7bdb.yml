@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Sep 2016 04:15:19 GMT
+    - Fri, 09 Sep 2016 20:13:47 GMT
     Etag:
-    - '"1473308119"'
+    - '"1473452027"'
     Link:
     - </node/513>; rel="shortlink",</mp/tharman-shanmugaratnam>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 08 Sep 2016 04:15:28 GMT
+    - Fri, 09 Sep 2016 20:13:59 GMT
     Date:
-    - Thu, 08 Sep 2016 04:15:28 GMT
+    - Fri, 09 Sep 2016 20:13:59 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Sep 2016 04:15:28 GMT
+recorded_at: Fri, 09 Sep 2016 20:13:59 GMT
