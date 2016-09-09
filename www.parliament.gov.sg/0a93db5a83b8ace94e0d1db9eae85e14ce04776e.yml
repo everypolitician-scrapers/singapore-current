@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Sep 2016 04:06:23 GMT
+    - Fri, 09 Sep 2016 20:04:18 GMT
     Etag:
-    - '"1473307583"'
+    - '"1473451458"'
     Link:
     - </node/331>; rel="shortlink",</mp/low-thia-khiang>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 08 Sep 2016 04:06:33 GMT
+    - Fri, 09 Sep 2016 20:04:29 GMT
     Date:
-    - Thu, 08 Sep 2016 04:06:33 GMT
+    - Fri, 09 Sep 2016 20:04:29 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Sep 2016 04:06:33 GMT
+recorded_at: Fri, 09 Sep 2016 20:04:29 GMT
