@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Sep 2016 04:12:47 GMT
+    - Fri, 09 Sep 2016 20:10:49 GMT
     Etag:
-    - '"1473307967"'
+    - '"1473451849"'
     Link:
     - </node/612>; rel="shortlink",</mp/dennis-tan-lip-fong>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 08 Sep 2016 04:12:57 GMT
+    - Fri, 09 Sep 2016 20:11:00 GMT
     Date:
-    - Thu, 08 Sep 2016 04:12:57 GMT
+    - Fri, 09 Sep 2016 20:11:00 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Sep 2016 04:12:57 GMT
+recorded_at: Fri, 09 Sep 2016 20:11:00 GMT
