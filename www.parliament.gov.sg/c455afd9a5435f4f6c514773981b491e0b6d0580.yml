@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Sep 2016 04:05:14 GMT
+    - Fri, 09 Sep 2016 20:03:03 GMT
     Etag:
-    - '"1473307514"'
+    - '"1473451383"'
     Link:
     - </node/297>; rel="shortlink",</mp/lim-biow-chuan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 08 Sep 2016 04:05:23 GMT
+    - Fri, 09 Sep 2016 20:03:14 GMT
     Date:
-    - Thu, 08 Sep 2016 04:05:23 GMT
+    - Fri, 09 Sep 2016 20:03:14 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Sep 2016 04:05:23 GMT
+recorded_at: Fri, 09 Sep 2016 20:03:14 GMT
