@@ -1,0 +1,74 @@
+---
+request:
+  method: get
+  uri: https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - '*/*'
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Date:
+    - Tue, 13 Sep 2016 14:27:01 GMT
+    Content-Type:
+    - text/html; charset=UTF-8
+    Content-Length:
+    - '12901'
+    Connection:
+    - keep-alive
+    Server:
+    - mw1237.eqiad.wmnet
+    X-Powered-By:
+    - HHVM/3.12.7
+    Vary:
+    - Accept-Encoding,Cookie,Authorization
+    X-Ua-Compatible:
+    - IE=Edge
+    Content-Language:
+    - en
+    P3p:
+    - CP="This is not a P3P policy! See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P
+      for more info."
+    X-Content-Type-Options:
+    - nosniff
+    Last-Modified:
+    - Tue, 30 Aug 2016 14:27:01 GMT
+    Backend-Timing:
+    - D=77071 t=1473776821560935
+    X-Varnish:
+    - 1592840241, 13667759, 3237481846, 998118940
+    Via:
+    - 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+    Accept-Ranges:
+    - bytes
+    Age:
+    - '0'
+    X-Cache:
+    - cp1053 miss, cp2001 miss, cp4010 miss, cp4008 miss
+    X-Cache-Status:
+    - miss
+    Strict-Transport-Security:
+    - max-age=31536000; includeSubDomains; preload
+    Set-Cookie:
+    - GeoIP=US:CA:Fremont:37.55:-121.99:v4; Path=/; secure; Domain=.wikipedia.org
+    - WMF-Last-Access=13-Sep-2016;Path=/;HttpOnly;secure;Expires=Sat, 15 Oct 2016
+      12:00:00 GMT
+    X-Analytics:
+    - ns=0;page_id=51029741;https=1;nocookies=1
+    X-Client-Ip:
+    - 50.116.3.88
+    Cache-Control:
+    - private, s-maxage=0, max-age=0, must-revalidate
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Tue, 13 Sep 2016 14:27:01 GMT
