@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 16 Sep 2016 08:32:16 GMT
+    - Sat, 17 Sep 2016 06:31:15 GMT
     Etag:
-    - '"1474014736"'
+    - '"1474093875"'
     Link:
     - </node/214>; rel="shortlink",</mp/goh-chok-tong>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 16 Sep 2016 08:32:27 GMT
+    - Sat, 17 Sep 2016 06:31:26 GMT
     Date:
-    - Fri, 16 Sep 2016 08:32:27 GMT
+    - Sat, 17 Sep 2016 06:31:26 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 16 Sep 2016 08:32:27 GMT
+recorded_at: Sat, 17 Sep 2016 06:31:27 GMT
