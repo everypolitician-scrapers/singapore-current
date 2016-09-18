@@ -18,15 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Sat, 17 Sep 2016 10:07:47 GMT
+    - Sun, 18 Sep 2016 13:41:28 GMT
     Content-Type:
     - text/html; charset=UTF-8
     Content-Length:
-    - '12888'
+    - '12889'
     Connection:
     - keep-alive
     Server:
-    - mw1185.eqiad.wmnet
+    - mw1211.eqiad.wmnet
     X-Powered-By:
     - HHVM/3.12.7
     Vary:
@@ -41,27 +41,27 @@ response:
     X-Content-Type-Options:
     - nosniff
     Last-Modified:
-    - Sat, 03 Sep 2016 04:02:44 GMT
+    - Sun, 04 Sep 2016 05:46:59 GMT
     Backend-Timing:
-    - D=242286 t=1474084964582453
+    - D=117174 t=1474177619402606
     X-Varnish:
-    - 2726060437, 979125022, 4139876073, 3060460519 2958318550
+    - 3036378070, 1240800798, 89441845, 3489821624 3345420345
     Via:
     - 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
     Accept-Ranges:
     - bytes
     Age:
-    - '21903'
+    - '28469'
     X-Cache:
-    - cp1053 miss, cp2001 miss, cp4010 miss, cp4008 hit/1
+    - cp1053 miss, cp2001 miss, cp4010 miss, cp4008 hit/4
     X-Cache-Status:
     - hit
     Strict-Transport-Security:
     - max-age=31536000; includeSubDomains; preload
     Set-Cookie:
     - GeoIP=US:CA:Fremont:37.55:-121.99:v4; Path=/; secure; Domain=.wikipedia.org
-    - WMF-Last-Access=17-Sep-2016;Path=/;HttpOnly;secure;Expires=Wed, 19 Oct 2016
-      00:00:00 GMT
+    - WMF-Last-Access=18-Sep-2016;Path=/;HttpOnly;secure;Expires=Thu, 20 Oct 2016
+      12:00:00 GMT
     X-Analytics:
     - ns=0;page_id=51029741;https=1;nocookies=1
     X-Client-Ip:
@@ -71,4 +71,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 17 Sep 2016 10:07:47 GMT
+recorded_at: Sun, 18 Sep 2016 13:41:28 GMT
