@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 21 Sep 2016 00:14:30 GMT
+    - Thu, 22 Sep 2016 02:06:42 GMT
     Etag:
-    - '"1474416870"'
+    - '"1474510002"'
     Link:
     - </node/502>; rel="shortlink",</mp/low-yen-ling>; rel="canonical"
     X-Generator:
@@ -38,12 +38,15 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 21 Sep 2016 00:14:37 GMT
+    - Thu, 22 Sep 2016 02:06:50 GMT
     Date:
-    - Wed, 21 Sep 2016 00:14:37 GMT
+    - Thu, 22 Sep 2016 02:06:50 GMT
     Connection:
     - keep-alive
+    Set-Cookie:
+    - SESSd0f07a0a313a6f12e3db8499724d0095=79bn2OO7XzNcvR5tl86MWh_KzvARTI1eZv7Ayd6b03M;
+      expires=Sat, 15-Oct-2016 05:40:06 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 21 Sep 2016 00:14:37 GMT
+recorded_at: Thu, 22 Sep 2016 02:06:50 GMT
