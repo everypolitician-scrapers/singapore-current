@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 21 Sep 2016 00:18:37 GMT
+    - Thu, 22 Sep 2016 02:10:40 GMT
     Etag:
-    - '"1474417117"'
+    - '"1474510240"'
     Link:
     - </node/606>; rel="shortlink",</mp/rahayu-mahzam>; rel="canonical"
     X-Generator:
@@ -38,12 +38,15 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 21 Sep 2016 00:18:43 GMT
+    - Thu, 22 Sep 2016 02:10:48 GMT
     Date:
-    - Wed, 21 Sep 2016 00:18:43 GMT
+    - Thu, 22 Sep 2016 02:10:48 GMT
     Connection:
     - keep-alive
+    Set-Cookie:
+    - SESSd0f07a0a313a6f12e3db8499724d0095=541Rvb94FMl-RKjKsG7hn0yFR4hVmnDZg-OMsrFoFFg;
+      expires=Sat, 15-Oct-2016 05:44:04 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 21 Sep 2016 00:18:43 GMT
+recorded_at: Thu, 22 Sep 2016 02:10:48 GMT
