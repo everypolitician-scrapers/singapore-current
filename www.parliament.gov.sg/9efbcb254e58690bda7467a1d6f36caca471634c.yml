@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 21 Sep 2016 00:13:51 GMT
+    - Thu, 22 Sep 2016 02:06:01 GMT
     Etag:
-    - '"1474416831"'
+    - '"1474509961"'
     Link:
     - </node/309>; rel="shortlink",</mp/sylvia-lim>; rel="canonical"
     X-Generator:
@@ -38,12 +38,15 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 21 Sep 2016 00:13:58 GMT
+    - Thu, 22 Sep 2016 02:06:09 GMT
     Date:
-    - Wed, 21 Sep 2016 00:13:58 GMT
+    - Thu, 22 Sep 2016 02:06:09 GMT
     Connection:
     - keep-alive
+    Set-Cookie:
+    - SESSd0f07a0a313a6f12e3db8499724d0095=sYAueHi8c7v-iUMko6kXCVD3JNC50jBLx-pqshOcrFI;
+      expires=Sat, 15-Oct-2016 05:39:25 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 21 Sep 2016 00:13:58 GMT
+recorded_at: Thu, 22 Sep 2016 02:06:09 GMT
