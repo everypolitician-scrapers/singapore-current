@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 21 Sep 2016 00:24:23 GMT
+    - Thu, 22 Sep 2016 02:16:43 GMT
     Etag:
-    - '"1474417463"'
+    - '"1474510603"'
     Link:
     - </node/476>; rel="shortlink",</mp/alex-yam-ziming>; rel="canonical"
     X-Generator:
@@ -38,12 +38,15 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 21 Sep 2016 00:24:29 GMT
+    - Thu, 22 Sep 2016 02:16:50 GMT
     Date:
-    - Wed, 21 Sep 2016 00:24:29 GMT
+    - Thu, 22 Sep 2016 02:16:50 GMT
     Connection:
     - keep-alive
+    Set-Cookie:
+    - SESSd0f07a0a313a6f12e3db8499724d0095=260Fh1H-GICBQ7LYw2h4l_zqlRnMPmLzDbYmEnb31To;
+      expires=Sat, 15-Oct-2016 05:50:06 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 21 Sep 2016 00:24:30 GMT
+recorded_at: Thu, 22 Sep 2016 02:16:50 GMT
