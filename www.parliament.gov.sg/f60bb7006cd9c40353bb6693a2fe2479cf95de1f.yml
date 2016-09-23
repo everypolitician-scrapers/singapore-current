@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:12:04 GMT
+    - Fri, 23 Sep 2016 06:04:26 GMT
     Etag:
-    - '"1474510324"'
+    - '"1474610666"'
     Link:
     - </node/608>; rel="shortlink",</mp/sun-xueling>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:12:12 GMT
+    - Fri, 23 Sep 2016 06:04:35 GMT
     Date:
-    - Thu, 22 Sep 2016 02:12:12 GMT
+    - Fri, 23 Sep 2016 06:04:35 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=fvZVbdmwgId-ag-c9eDa85KrwCcnTV9zAMUf9iD31Y4;
-      expires=Sat, 15-Oct-2016 05:45:28 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:12:13 GMT
+recorded_at: Fri, 23 Sep 2016 06:04:35 GMT
