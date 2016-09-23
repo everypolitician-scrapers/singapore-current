@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:15:10 GMT
+    - Fri, 23 Sep 2016 06:07:19 GMT
     Etag:
-    - '"1474510510"'
+    - '"1474610839"'
     Link:
     - </node/513>; rel="shortlink",</mp/tharman-shanmugaratnam>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:15:18 GMT
+    - Fri, 23 Sep 2016 06:07:28 GMT
     Date:
-    - Thu, 22 Sep 2016 02:15:18 GMT
+    - Fri, 23 Sep 2016 06:07:28 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=JenbzCzmCGO915VKFrWlMW4-ubIp8o_hWwq0HB6FnNM;
-      expires=Sat, 15-Oct-2016 05:48:33 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:15:18 GMT
+recorded_at: Fri, 23 Sep 2016 06:07:28 GMT
