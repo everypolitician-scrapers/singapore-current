@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:11:19 GMT
+    - Fri, 23 Sep 2016 06:03:47 GMT
     Etag:
-    - '"1474510279"'
+    - '"1474610627"'
     Link:
     - </node/263>; rel="shortlink",</mp/k-shanmugam>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:11:27 GMT
+    - Fri, 23 Sep 2016 06:03:56 GMT
     Date:
-    - Thu, 22 Sep 2016 02:11:27 GMT
+    - Fri, 23 Sep 2016 06:03:56 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=P1PADMJMqH7uDodpdeAfy4FIgR2HDRo8KhDKVttO620;
-      expires=Sat, 15-Oct-2016 05:44:43 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:11:28 GMT
+recorded_at: Fri, 23 Sep 2016 06:03:56 GMT
