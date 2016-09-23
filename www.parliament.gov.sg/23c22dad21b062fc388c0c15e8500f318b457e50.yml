@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 01:58:05 GMT
+    - Fri, 23 Sep 2016 05:50:26 GMT
     Etag:
-    - '"1474509485"'
+    - '"1474609826"'
     Link:
     - </node/597>; rel="shortlink",</mp/chong-kee-hiong>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 01:58:13 GMT
+    - Fri, 23 Sep 2016 05:50:35 GMT
     Date:
-    - Thu, 22 Sep 2016 01:58:13 GMT
+    - Fri, 23 Sep 2016 05:50:35 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=p0jxGj45y-tXI1ogOn46Ag2P1KE-mzzT1X6s2nvHG_g;
-      expires=Sat, 15-Oct-2016 05:31:29 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 01:58:13 GMT
+recorded_at: Fri, 23 Sep 2016 05:50:36 GMT
