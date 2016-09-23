@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:16:56 GMT
+    - Fri, 23 Sep 2016 06:08:57 GMT
     Etag:
-    - '"1474510616"'
+    - '"1474610937"'
     Link:
     - </node/610>; rel="shortlink",</mp/yee-chia-hsing>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:17:04 GMT
+    - Fri, 23 Sep 2016 06:09:06 GMT
     Date:
-    - Thu, 22 Sep 2016 02:17:04 GMT
+    - Fri, 23 Sep 2016 06:09:06 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=g9ktAZf_lOYGD23EsjkhEZLbg_43G54TCaIjvCgqbg0;
-      expires=Sat, 15-Oct-2016 05:50:20 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:17:04 GMT
+recorded_at: Fri, 23 Sep 2016 06:09:06 GMT
