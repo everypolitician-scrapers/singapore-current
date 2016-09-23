@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:11:09 GMT
+    - Fri, 23 Sep 2016 06:03:37 GMT
     Etag:
-    - '"1474510269"'
+    - '"1474610617"'
     Link:
     - </node/325>; rel="shortlink",</mp/seah-kian-peng>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:11:17 GMT
+    - Fri, 23 Sep 2016 06:03:46 GMT
     Date:
-    - Thu, 22 Sep 2016 02:11:17 GMT
+    - Fri, 23 Sep 2016 06:03:46 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=9hRLapPpifooC1J6VpDTcFOWbzEWiZmYyD63pslhzts;
-      expires=Sat, 15-Oct-2016 05:44:33 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:11:17 GMT
+recorded_at: Fri, 23 Sep 2016 06:03:46 GMT
