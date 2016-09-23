@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 01:58:33 GMT
+    - Fri, 23 Sep 2016 05:50:55 GMT
     Etag:
-    - '"1474509513"'
+    - '"1474609855"'
     Link:
     - </node/570>; rel="shortlink",</mp/thomas-chua>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 01:58:41 GMT
+    - Fri, 23 Sep 2016 05:51:04 GMT
     Date:
-    - Thu, 22 Sep 2016 01:58:41 GMT
+    - Fri, 23 Sep 2016 05:51:04 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=5psi8kyr_ksEEGTaldhvaKQei8IwjRT3AsVEY1QlEMk;
-      expires=Sat, 15-Oct-2016 05:31:56 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 01:58:41 GMT
+recorded_at: Fri, 23 Sep 2016 05:51:04 GMT
