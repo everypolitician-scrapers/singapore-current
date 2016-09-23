@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 01:57:51 GMT
+    - Fri, 23 Sep 2016 05:50:12 GMT
     Etag:
-    - '"1474509471"'
+    - '"1474609812"'
     Link:
     - </node/254>; rel="shortlink",</mp/charles-chong>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 01:57:59 GMT
+    - Fri, 23 Sep 2016 05:50:22 GMT
     Date:
-    - Thu, 22 Sep 2016 01:57:59 GMT
+    - Fri, 23 Sep 2016 05:50:22 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=MBJlp2RmR9wd-bzIQQz1tqSQCy22nk5iC8MFd6cxITk;
-      expires=Sat, 15-Oct-2016 05:31:15 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 01:57:59 GMT
+recorded_at: Fri, 23 Sep 2016 05:50:22 GMT
