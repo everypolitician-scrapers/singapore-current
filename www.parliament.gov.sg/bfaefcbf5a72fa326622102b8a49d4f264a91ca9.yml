@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:07:53 GMT
+    - Fri, 23 Sep 2016 06:00:33 GMT
     Etag:
-    - '"1474510073"'
+    - '"1474610433"'
     Link:
     - </node/660>; rel="shortlink",</mp/k-muralidharan-pillai>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:08:00 GMT
+    - Fri, 23 Sep 2016 06:00:43 GMT
     Date:
-    - Thu, 22 Sep 2016 02:08:00 GMT
+    - Fri, 23 Sep 2016 06:00:43 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=eDtTW250CeF7c3O-0DGgbIYcRkDrIFI_xz6QU5zynY8;
-      expires=Sat, 15-Oct-2016 05:41:16 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:08:00 GMT
+recorded_at: Fri, 23 Sep 2016 06:00:43 GMT
