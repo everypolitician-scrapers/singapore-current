@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:17:24 GMT
+    - Fri, 23 Sep 2016 06:09:24 GMT
     Etag:
-    - '"1474510644"'
+    - '"1474610964"'
     Link:
     - </node/464>; rel="shortlink",</mp/zainal-bin-sapari>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:17:32 GMT
+    - Fri, 23 Sep 2016 06:09:33 GMT
     Date:
-    - Thu, 22 Sep 2016 02:17:32 GMT
+    - Fri, 23 Sep 2016 06:09:33 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=98k18MkWiz6pjgFdAlfA1pXbHIRXnV3H-LD_crhJ7ec;
-      expires=Sat, 15-Oct-2016 05:50:48 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:17:32 GMT
+recorded_at: Fri, 23 Sep 2016 06:09:33 GMT
