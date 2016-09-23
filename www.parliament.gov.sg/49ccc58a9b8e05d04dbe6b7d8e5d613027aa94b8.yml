@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:03:01 GMT
+    - Fri, 23 Sep 2016 05:55:39 GMT
     Etag:
-    - '"1474509781"'
+    - '"1474610139"'
     Link:
     - </node/600>; rel="shortlink",</mp/koh-poh-koon>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:03:09 GMT
+    - Fri, 23 Sep 2016 05:55:49 GMT
     Date:
-    - Thu, 22 Sep 2016 02:03:09 GMT
+    - Fri, 23 Sep 2016 05:55:49 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=FpraVZBynnKfu0pNKiDh6bTcz_8x-JVlwSC_WDHtsM4;
-      expires=Sat, 15-Oct-2016 05:36:25 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:03:09 GMT
+recorded_at: Fri, 23 Sep 2016 05:55:49 GMT
