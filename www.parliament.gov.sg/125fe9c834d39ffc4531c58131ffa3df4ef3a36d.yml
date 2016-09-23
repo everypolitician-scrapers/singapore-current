@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 22 Sep 2016 02:09:58 GMT
+    - Fri, 23 Sep 2016 06:02:33 GMT
     Etag:
-    - '"1474510198"'
+    - '"1474610553"'
     Link:
     - </node/321>; rel="shortlink",</mp/denise-phua-lay-peng>; rel="canonical"
     X-Generator:
@@ -38,15 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 22 Sep 2016 02:10:06 GMT
+    - Fri, 23 Sep 2016 06:02:42 GMT
     Date:
-    - Thu, 22 Sep 2016 02:10:06 GMT
+    - Fri, 23 Sep 2016 06:02:42 GMT
     Connection:
     - keep-alive
-    Set-Cookie:
-    - SESSd0f07a0a313a6f12e3db8499724d0095=xz4hmhvDJdCJR31a9wjFMJUZtbM-Hqby8N2pq5kYQmQ;
-      expires=Sat, 15-Oct-2016 05:43:22 GMT; path=/; domain=.parliament.gov.sg; HttpOnly
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 22 Sep 2016 02:10:06 GMT
+recorded_at: Fri, 23 Sep 2016 06:02:42 GMT
