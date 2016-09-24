@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 23 Sep 2016 05:52:14 GMT
+    - Sat, 24 Sep 2016 20:21:37 GMT
     Etag:
-    - '"1474609934"'
+    - '"1474748497"'
     Link:
     - </node/275>; rel="shortlink",</mp/grace-fu-hai-yien>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 23 Sep 2016 05:52:23 GMT
+    - Sat, 24 Sep 2016 20:21:48 GMT
     Date:
-    - Fri, 23 Sep 2016 05:52:23 GMT
+    - Sat, 24 Sep 2016 20:21:48 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 23 Sep 2016 05:52:23 GMT
+recorded_at: Sat, 24 Sep 2016 20:21:48 GMT
