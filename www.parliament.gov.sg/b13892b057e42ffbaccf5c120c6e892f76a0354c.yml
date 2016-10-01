@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 30 Sep 2016 12:12:13 GMT
+    - Sat, 01 Oct 2016 06:17:46 GMT
     Etag:
-    - '"1475237533"'
+    - '"1475302666"'
     Link:
     - </node/488>; rel="shortlink",</mp/mohamad-maliki-bin-osman>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 30 Sep 2016 12:12:23 GMT
+    - Sat, 01 Oct 2016 06:17:56 GMT
     Date:
-    - Fri, 30 Sep 2016 12:12:23 GMT
+    - Sat, 01 Oct 2016 06:17:56 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 30 Sep 2016 12:12:23 GMT
+recorded_at: Sat, 01 Oct 2016 06:17:56 GMT
