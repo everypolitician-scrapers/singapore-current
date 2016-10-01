@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 30 Sep 2016 11:55:15 GMT
+    - Sat, 01 Oct 2016 05:59:58 GMT
     Etag:
-    - '"1475236515"'
+    - '"1475301598"'
     Link:
     - </node/652>; rel="shortlink",</mp/azmoon-ahmad>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 30 Sep 2016 11:55:24 GMT
+    - Sat, 01 Oct 2016 06:00:08 GMT
     Date:
-    - Fri, 30 Sep 2016 11:55:24 GMT
+    - Sat, 01 Oct 2016 06:00:08 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 30 Sep 2016 11:55:25 GMT
+recorded_at: Sat, 01 Oct 2016 06:00:08 GMT
