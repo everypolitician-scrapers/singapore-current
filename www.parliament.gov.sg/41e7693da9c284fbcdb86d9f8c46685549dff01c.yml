@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 30 Sep 2016 12:16:21 GMT
+    - Sat, 01 Oct 2016 06:21:04 GMT
     Etag:
-    - '"1475237781"'
+    - '"1475302864"'
     Link:
     - </node/605>; rel="shortlink",</mp/joan-pereira>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 30 Sep 2016 12:16:30 GMT
+    - Sat, 01 Oct 2016 06:21:14 GMT
     Date:
-    - Fri, 30 Sep 2016 12:16:30 GMT
+    - Sat, 01 Oct 2016 06:21:14 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 30 Sep 2016 12:16:30 GMT
+recorded_at: Sat, 01 Oct 2016 06:21:14 GMT
