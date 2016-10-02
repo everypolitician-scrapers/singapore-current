@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 01 Oct 2016 06:26:09 GMT
+    - Sun, 02 Oct 2016 17:58:52 GMT
     Etag:
-    - '"1475303169"'
+    - '"1475431132"'
     Link:
     - </node/329>; rel="shortlink",</mp/sam-tan-chin-siong>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 01 Oct 2016 06:26:19 GMT
+    - Sun, 02 Oct 2016 17:58:56 GMT
     Date:
-    - Sat, 01 Oct 2016 06:26:19 GMT
+    - Sun, 02 Oct 2016 17:58:56 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 01 Oct 2016 06:26:19 GMT
+recorded_at: Sun, 02 Oct 2016 17:58:56 GMT
