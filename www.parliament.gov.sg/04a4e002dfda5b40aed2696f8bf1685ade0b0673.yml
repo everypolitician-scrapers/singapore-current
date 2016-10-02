@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 01 Oct 2016 06:29:53 GMT
+    - Sun, 02 Oct 2016 18:02:47 GMT
     Etag:
-    - '"1475303393"'
+    - '"1475431367"'
     Link:
     - </node/515>; rel="shortlink",</mp/vivian-balakrishnan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 01 Oct 2016 06:30:03 GMT
+    - Sun, 02 Oct 2016 18:02:51 GMT
     Date:
-    - Sat, 01 Oct 2016 06:30:03 GMT
+    - Sun, 02 Oct 2016 18:02:51 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 01 Oct 2016 06:30:03 GMT
+recorded_at: Sun, 02 Oct 2016 18:02:51 GMT
