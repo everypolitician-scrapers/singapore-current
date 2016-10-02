@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 01 Oct 2016 06:01:10 GMT
+    - Sun, 02 Oct 2016 17:35:04 GMT
     Etag:
-    - '"1475301670"'
+    - '"1475429704"'
     Link:
     - </node/595>; rel="shortlink",</mp/chee-hong-tat>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 01 Oct 2016 06:01:20 GMT
+    - Sun, 02 Oct 2016 17:35:08 GMT
     Date:
-    - Sat, 01 Oct 2016 06:01:20 GMT
+    - Sun, 02 Oct 2016 17:35:08 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 01 Oct 2016 06:01:20 GMT
+recorded_at: Sun, 02 Oct 2016 17:35:08 GMT
