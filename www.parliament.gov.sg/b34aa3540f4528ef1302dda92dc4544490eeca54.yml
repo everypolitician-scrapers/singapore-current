@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 02 Oct 2016 23:29:48 GMT
+    - Tue, 04 Oct 2016 10:04:38 GMT
     Etag:
-    - '"1475450988"'
+    - '"1475575478"'
     Link:
     - </node/599>; rel="shortlink",</mp/darryl-david>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '34807'
+    - '34806'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 02 Oct 2016 23:29:52 GMT
+    - Tue, 04 Oct 2016 10:04:43 GMT
     Date:
-    - Sun, 02 Oct 2016 23:29:52 GMT
+    - Tue, 04 Oct 2016 10:04:43 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 02 Oct 2016 23:29:52 GMT
+recorded_at: Tue, 04 Oct 2016 10:04:44 GMT
