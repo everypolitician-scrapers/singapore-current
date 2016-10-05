@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 02 Oct 2016 23:51:55 GMT
+    - Wed, 05 Oct 2016 11:44:20 GMT
     Etag:
-    - '"1475452315"'
+    - '"1475667860"'
     Link:
     - </node/333>; rel="shortlink",</mp/jessica-tan-soon-neo>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '36003'
+    - '36002'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 02 Oct 2016 23:51:59 GMT
+    - Wed, 05 Oct 2016 11:44:27 GMT
     Date:
-    - Sun, 02 Oct 2016 23:51:59 GMT
+    - Wed, 05 Oct 2016 11:44:27 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 02 Oct 2016 23:51:59 GMT
+recorded_at: Wed, 05 Oct 2016 11:44:27 GMT
