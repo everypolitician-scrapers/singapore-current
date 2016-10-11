@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 10 Oct 2016 02:51:04 GMT
+    - Tue, 11 Oct 2016 08:49:57 GMT
     Etag:
-    - '"1476067864"'
+    - '"1476175797"'
     Link:
     - </node/660>; rel="shortlink",</mp/k-muralidharan-pillai>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 10 Oct 2016 02:51:09 GMT
+    - Tue, 11 Oct 2016 08:50:03 GMT
     Date:
-    - Mon, 10 Oct 2016 02:51:09 GMT
+    - Tue, 11 Oct 2016 08:50:03 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 10 Oct 2016 02:51:09 GMT
+recorded_at: Tue, 11 Oct 2016 08:50:03 GMT
