@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 13 Oct 2016 12:15:01 GMT
+    - Sat, 15 Oct 2016 02:12:11 GMT
     Etag:
-    - '"1476360901"'
+    - '"1476497531"'
     Link:
     - </node/604>; rel="shortlink",</mp/ong-ye-kung>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 13 Oct 2016 12:15:09 GMT
+    - Sat, 15 Oct 2016 02:12:22 GMT
     Date:
-    - Thu, 13 Oct 2016 12:15:09 GMT
+    - Sat, 15 Oct 2016 02:12:22 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 13 Oct 2016 12:15:09 GMT
+recorded_at: Sat, 15 Oct 2016 02:12:22 GMT
