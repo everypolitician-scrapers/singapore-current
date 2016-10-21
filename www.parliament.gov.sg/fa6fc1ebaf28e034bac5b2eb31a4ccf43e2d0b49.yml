@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 20 Oct 2016 06:07:47 GMT
+    - Fri, 21 Oct 2016 08:10:06 GMT
     Etag:
-    - '"1476943667"'
+    - '"1477037406"'
     Link:
     - </node/463>; rel="shortlink",</mp/ang-wei-neng>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 20 Oct 2016 06:07:55 GMT
+    - Fri, 21 Oct 2016 08:10:15 GMT
     Date:
-    - Thu, 20 Oct 2016 06:07:55 GMT
+    - Fri, 21 Oct 2016 08:10:15 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 20 Oct 2016 06:07:55 GMT
+recorded_at: Fri, 21 Oct 2016 08:10:15 GMT
