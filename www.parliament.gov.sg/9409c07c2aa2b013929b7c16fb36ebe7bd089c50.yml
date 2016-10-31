@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 30 Oct 2016 00:50:40 GMT
+    - Mon, 31 Oct 2016 09:42:06 GMT
     Etag:
-    - '"1477788640"'
+    - '"1477906926"'
     Link:
     - </node/447>; rel="shortlink",</mp/cedric-foo-chee-keng>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 30 Oct 2016 00:50:52 GMT
+    - Mon, 31 Oct 2016 09:42:11 GMT
     Date:
-    - Sun, 30 Oct 2016 00:50:52 GMT
+    - Mon, 31 Oct 2016 09:42:11 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 30 Oct 2016 00:50:52 GMT
+recorded_at: Mon, 31 Oct 2016 09:42:11 GMT
