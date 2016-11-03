@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 02 Nov 2016 02:25:16 GMT
+    - Thu, 03 Nov 2016 05:45:18 GMT
     Etag:
-    - '"1478053516"'
+    - '"1478151918"'
     Link:
     - </node/97>; rel="shortlink",</mp/ang-hin-kee>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 02 Nov 2016 02:25:23 GMT
+    - Thu, 03 Nov 2016 05:45:26 GMT
     Date:
-    - Wed, 02 Nov 2016 02:25:23 GMT
+    - Thu, 03 Nov 2016 05:45:26 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 02 Nov 2016 02:25:23 GMT
+recorded_at: Thu, 03 Nov 2016 05:45:26 GMT
