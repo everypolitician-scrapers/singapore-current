@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 07 Nov 2016 17:41:59 GMT
+    - Tue, 08 Nov 2016 17:50:51 GMT
     Etag:
-    - '"1478540519"'
+    - '"1478627451"'
     Link:
     - </node/576>; rel="shortlink",</mp/randolph-tan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 07 Nov 2016 17:42:05 GMT
+    - Tue, 08 Nov 2016 17:50:58 GMT
     Date:
-    - Mon, 07 Nov 2016 17:42:05 GMT
+    - Tue, 08 Nov 2016 17:50:58 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 07 Nov 2016 17:42:05 GMT
+recorded_at: Tue, 08 Nov 2016 17:50:58 GMT
