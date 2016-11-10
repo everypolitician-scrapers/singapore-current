@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 09 Nov 2016 03:52:00 GMT
+    - Thu, 10 Nov 2016 22:49:53 GMT
     Etag:
-    - '"1478663520"'
+    - '"1478818193"'
     Link:
     - </node/628>; rel="shortlink",</mp/daniel-goh-pei-siong>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '32647'
+    - '32648'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 09 Nov 2016 03:52:10 GMT
+    - Thu, 10 Nov 2016 22:50:03 GMT
     Date:
-    - Wed, 09 Nov 2016 03:52:10 GMT
+    - Thu, 10 Nov 2016 22:50:03 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 09 Nov 2016 03:52:10 GMT
+recorded_at: Thu, 10 Nov 2016 22:50:03 GMT
