@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 11 Nov 2016 08:38:46 GMT
+    - Tue, 15 Nov 2016 23:16:32 GMT
     Etag:
-    - '"1478853526"'
+    - '"1479251792-1"'
+    X-Drupal-Cache:
+    - MISS
     Link:
     - </node/322>; rel="shortlink",</list-constituencies>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '44381'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Fri, 11 Nov 2016 08:39:43 GMT
+    - Tue, 15 Nov 2016 23:17:39 GMT
     Date:
-    - Fri, 11 Nov 2016 08:39:43 GMT
+    - Tue, 15 Nov 2016 23:16:39 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '44545'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 11 Nov 2016 08:39:43 GMT
+recorded_at: Tue, 15 Nov 2016 23:16:39 GMT
