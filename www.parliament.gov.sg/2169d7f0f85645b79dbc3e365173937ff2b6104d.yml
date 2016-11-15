@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 10 Nov 2016 22:50:35 GMT
+    - Tue, 15 Nov 2016 23:26:16 GMT
     Etag:
-    - '"1478818235"'
+    - '"1479252376-1"'
+    X-Drupal-Cache:
+    - MISS
     Link:
     - </node/461>; rel="shortlink",</mp/heng-chee-how>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '36476'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Thu, 10 Nov 2016 22:50:46 GMT
+    - Tue, 15 Nov 2016 23:27:28 GMT
     Date:
-    - Thu, 10 Nov 2016 22:50:46 GMT
+    - Tue, 15 Nov 2016 23:26:28 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '36640'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 10 Nov 2016 22:50:46 GMT
+recorded_at: Tue, 15 Nov 2016 23:26:28 GMT
