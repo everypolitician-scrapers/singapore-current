@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 10 Nov 2016 22:54:41 GMT
+    - Tue, 15 Nov 2016 23:30:18 GMT
     Etag:
-    - '"1478818481"'
+    - '"1479252618-1"'
+    X-Drupal-Cache:
+    - MISS
     Link:
     - </node/286>; rel="shortlink",</mp/lee-bee-wah>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '36152'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Thu, 10 Nov 2016 22:54:53 GMT
+    - Tue, 15 Nov 2016 23:31:25 GMT
     Date:
-    - Thu, 10 Nov 2016 22:54:53 GMT
+    - Tue, 15 Nov 2016 23:30:25 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '36316'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 10 Nov 2016 22:54:53 GMT
+recorded_at: Tue, 15 Nov 2016 23:30:25 GMT
