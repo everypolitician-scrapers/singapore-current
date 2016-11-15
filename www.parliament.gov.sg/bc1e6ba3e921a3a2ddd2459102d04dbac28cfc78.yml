@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 10 Nov 2016 22:55:02 GMT
+    - Tue, 15 Nov 2016 23:30:37 GMT
     Etag:
-    - '"1478818502"'
+    - '"1479252637-1"'
+    X-Drupal-Cache:
+    - MISS
     Link:
     - </node/498>; rel="shortlink",</mp/desmond-lee>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '36327'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Thu, 10 Nov 2016 22:55:12 GMT
+    - Tue, 15 Nov 2016 23:31:44 GMT
     Date:
-    - Thu, 10 Nov 2016 22:55:12 GMT
+    - Tue, 15 Nov 2016 23:30:44 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '36491'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 10 Nov 2016 22:55:12 GMT
+recorded_at: Tue, 15 Nov 2016 23:30:44 GMT
