@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 09 Nov 2016 04:12:45 GMT
+    - Tue, 15 Nov 2016 23:25:33 GMT
     Etag:
-    - '"1478664765"'
+    - '"1479252333-1"'
+    X-Drupal-Cache:
+    - HIT
     Link:
     - </node/337>; rel="shortlink",</mp/teo-chee-hean>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '43107'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Wed, 09 Nov 2016 04:12:53 GMT
+    - Tue, 15 Nov 2016 23:43:46 GMT
     Date:
-    - Wed, 09 Nov 2016 04:12:53 GMT
+    - Tue, 15 Nov 2016 23:42:46 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '43272'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 09 Nov 2016 04:12:53 GMT
+recorded_at: Tue, 15 Nov 2016 23:42:46 GMT
