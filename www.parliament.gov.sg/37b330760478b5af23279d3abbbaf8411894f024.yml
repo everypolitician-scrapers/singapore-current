@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 09 Nov 2016 04:07:42 GMT
+    - Tue, 15 Nov 2016 23:33:05 GMT
     Etag:
-    - '"1478664462"'
+    - '"1479252785-1"'
+    X-Drupal-Cache:
+    - HIT
     Link:
     - </node/507>; rel="shortlink",</mp/pritam-singh>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '34975'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Wed, 09 Nov 2016 04:07:49 GMT
+    - Tue, 15 Nov 2016 23:39:38 GMT
     Date:
-    - Wed, 09 Nov 2016 04:07:49 GMT
+    - Tue, 15 Nov 2016 23:38:38 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '35140'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 09 Nov 2016 04:07:49 GMT
+recorded_at: Tue, 15 Nov 2016 23:38:38 GMT
