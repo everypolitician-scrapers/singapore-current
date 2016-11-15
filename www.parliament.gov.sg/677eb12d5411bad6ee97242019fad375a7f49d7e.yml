@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 09 Nov 2016 04:09:00 GMT
+    - Tue, 15 Nov 2016 23:31:40 GMT
     Etag:
-    - '"1478664540"'
+    - '"1479252700-1"'
+    X-Drupal-Cache:
+    - HIT
     Link:
     - </node/263>; rel="shortlink",</mp/k-shanmugam>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '39645'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Wed, 09 Nov 2016 04:09:09 GMT
+    - Tue, 15 Nov 2016 23:40:45 GMT
     Date:
-    - Wed, 09 Nov 2016 04:09:09 GMT
+    - Tue, 15 Nov 2016 23:39:45 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '39810'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 09 Nov 2016 04:09:09 GMT
+recorded_at: Tue, 15 Nov 2016 23:39:45 GMT
