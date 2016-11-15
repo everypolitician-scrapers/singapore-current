@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 10 Nov 2016 22:50:12 GMT
+    - Tue, 15 Nov 2016 23:25:56 GMT
     Etag:
-    - '"1478818212"'
+    - '"1479252356-1"'
+    X-Drupal-Cache:
+    - MISS
     Link:
     - </node/459>; rel="shortlink",</mp/halimah-yacob>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '41710'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Thu, 10 Nov 2016 22:50:25 GMT
+    - Tue, 15 Nov 2016 23:27:03 GMT
     Date:
-    - Thu, 10 Nov 2016 22:50:25 GMT
+    - Tue, 15 Nov 2016 23:26:03 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '41874'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 10 Nov 2016 22:50:25 GMT
+recorded_at: Tue, 15 Nov 2016 23:26:04 GMT
