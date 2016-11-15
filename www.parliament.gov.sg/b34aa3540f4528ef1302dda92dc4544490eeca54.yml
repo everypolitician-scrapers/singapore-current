@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 10 Nov 2016 22:46:42 GMT
+    - Tue, 15 Nov 2016 23:22:33 GMT
     Etag:
-    - '"1478818002"'
+    - '"1479252153-1"'
+    X-Drupal-Cache:
+    - MISS
     Link:
     - </node/599>; rel="shortlink",</mp/darryl-david>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '34807'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Thu, 10 Nov 2016 22:46:52 GMT
+    - Tue, 15 Nov 2016 23:23:40 GMT
     Date:
-    - Thu, 10 Nov 2016 22:46:52 GMT
+    - Tue, 15 Nov 2016 23:22:40 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '34971'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 10 Nov 2016 22:46:52 GMT
+recorded_at: Tue, 15 Nov 2016 23:22:40 GMT
