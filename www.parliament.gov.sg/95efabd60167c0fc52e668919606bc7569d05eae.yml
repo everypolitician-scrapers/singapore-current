@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 09 Nov 2016 04:12:19 GMT
+    - Tue, 15 Nov 2016 23:38:02 GMT
     Etag:
-    - '"1478664739"'
+    - '"1479253082-1"'
+    X-Drupal-Cache:
+    - HIT
     Link:
     - </node/491>; rel="shortlink",</mp/patrick-tay-teck-guan>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '36017'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Wed, 09 Nov 2016 04:12:27 GMT
+    - Tue, 15 Nov 2016 23:43:30 GMT
     Date:
-    - Wed, 09 Nov 2016 04:12:27 GMT
+    - Tue, 15 Nov 2016 23:42:30 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '36182'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 09 Nov 2016 04:12:30 GMT
+recorded_at: Tue, 15 Nov 2016 23:42:30 GMT
