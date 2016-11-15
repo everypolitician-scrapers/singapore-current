@@ -22,9 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 10 Nov 2016 22:47:17 GMT
+    - Tue, 15 Nov 2016 23:23:07 GMT
     Etag:
-    - '"1478818037"'
+    - '"1479252187-1"'
+    X-Drupal-Cache:
+    - MISS
     Link:
     - </node/272>; rel="shortlink",</mp/fatimah-lateef>; rel="canonical"
     X-Generator:
@@ -33,17 +35,21 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Content-Length:
-    - '36321'
+    Vary:
+    - Accept-Encoding
+    - cookie
     Cache-Control:
-    - no-cache, must-revalidate, post-check=0, pre-check=0
+    - public, max-age=60
     Expires:
-    - Thu, 10 Nov 2016 22:47:27 GMT
+    - Tue, 15 Nov 2016 23:24:14 GMT
     Date:
-    - Thu, 10 Nov 2016 22:47:27 GMT
+    - Tue, 15 Nov 2016 23:23:14 GMT
     Connection:
+    - Transfer-Encoding
     - keep-alive
+    Content-Length:
+    - '36485'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 10 Nov 2016 22:47:27 GMT
+recorded_at: Tue, 15 Nov 2016 23:23:14 GMT
