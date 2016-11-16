@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 15 Nov 2016 23:27:15 GMT
+    - Wed, 16 Nov 2016 18:10:23 GMT
     Etag:
-    - '"1479252435-1"'
+    - '"1479319823-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/489>; rel="shortlink",</mp/intan-azura-binte-mokhtar>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 15 Nov 2016 23:28:22 GMT
+    - Wed, 16 Nov 2016 21:56:43 GMT
     Date:
-    - Tue, 15 Nov 2016 23:27:22 GMT
+    - Wed, 16 Nov 2016 21:55:43 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 15 Nov 2016 23:27:22 GMT
+recorded_at: Wed, 16 Nov 2016 21:55:43 GMT
