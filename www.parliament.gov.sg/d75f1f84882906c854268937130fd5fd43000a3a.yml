@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 15 Nov 2016 23:39:07 GMT
+    - Wed, 16 Nov 2016 18:16:26 GMT
     Etag:
-    - '"1479253147-1"'
+    - '"1479320186-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/607>; rel="shortlink",</mp/saktiandi-supaat>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 15 Nov 2016 23:40:14 GMT
+    - Wed, 16 Nov 2016 22:08:07 GMT
     Date:
-    - Tue, 15 Nov 2016 23:39:14 GMT
+    - Wed, 16 Nov 2016 22:07:07 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 15 Nov 2016 23:39:14 GMT
+recorded_at: Wed, 16 Nov 2016 22:07:07 GMT
