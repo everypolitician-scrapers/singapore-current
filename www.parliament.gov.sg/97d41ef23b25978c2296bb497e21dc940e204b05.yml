@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 15 Nov 2016 23:41:31 GMT
+    - Wed, 16 Nov 2016 18:17:43 GMT
     Etag:
-    - '"1479253291-1"'
+    - '"1479320263-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/576>; rel="shortlink",</mp/randolph-tan>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 15 Nov 2016 23:42:38 GMT
+    - Wed, 16 Nov 2016 22:10:36 GMT
     Date:
-    - Tue, 15 Nov 2016 23:41:38 GMT
+    - Wed, 16 Nov 2016 22:09:36 GMT
     Content-Length:
     - '31353'
     Connection:
@@ -51,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 15 Nov 2016 23:41:38 GMT
+recorded_at: Wed, 16 Nov 2016 22:09:36 GMT
