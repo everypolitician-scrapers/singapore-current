@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 17 Nov 2016 00:09:44 GMT
+    - Fri, 18 Nov 2016 00:45:14 GMT
     Etag:
-    - '"1479341384-1"'
+    - '"1479429914-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/486>; rel="shortlink",</mp/heng-swee-keat>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Thu, 17 Nov 2016 01:24:00 GMT
+    - Fri, 18 Nov 2016 00:46:23 GMT
     Date:
-    - Thu, 17 Nov 2016 01:23:00 GMT
+    - Fri, 18 Nov 2016 00:45:23 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 17 Nov 2016 01:23:00 GMT
+recorded_at: Fri, 18 Nov 2016 00:45:23 GMT
