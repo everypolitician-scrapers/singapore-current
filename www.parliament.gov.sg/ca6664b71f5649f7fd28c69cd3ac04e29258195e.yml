@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 17 Nov 2016 00:14:13 GMT
+    - Fri, 18 Nov 2016 00:54:44 GMT
     Etag:
-    - '"1479341653-1"'
+    - '"1479430484-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/402>; rel="shortlink",</mp/lily-neo>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Thu, 17 Nov 2016 01:32:31 GMT
+    - Fri, 18 Nov 2016 00:55:54 GMT
     Date:
-    - Thu, 17 Nov 2016 01:31:31 GMT
+    - Fri, 18 Nov 2016 00:54:54 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 17 Nov 2016 01:31:31 GMT
+recorded_at: Fri, 18 Nov 2016 00:54:54 GMT
