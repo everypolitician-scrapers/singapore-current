@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 18 Nov 2016 00:37:04 GMT
+    - Sat, 19 Nov 2016 09:06:01 GMT
     Etag:
-    - '"1479429424-1"'
+    - '"1479546361-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/594>; rel="shortlink",</mp/cheryl-chan-wei-ling>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Fri, 18 Nov 2016 00:38:13 GMT
+    - Sat, 19 Nov 2016 14:18:47 GMT
     Date:
-    - Fri, 18 Nov 2016 00:37:13 GMT
+    - Sat, 19 Nov 2016 14:17:47 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 18 Nov 2016 00:37:13 GMT
+recorded_at: Sat, 19 Nov 2016 14:17:47 GMT
