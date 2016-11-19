@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 18 Nov 2016 00:35:50 GMT
+    - Sat, 19 Nov 2016 09:05:25 GMT
     Etag:
-    - '"1479429350-1"'
+    - '"1479546325-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/97>; rel="shortlink",</mp/ang-hin-kee>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Fri, 18 Nov 2016 00:37:00 GMT
+    - Sat, 19 Nov 2016 14:17:44 GMT
     Date:
-    - Fri, 18 Nov 2016 00:36:00 GMT
+    - Sat, 19 Nov 2016 14:16:44 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 18 Nov 2016 00:36:00 GMT
+recorded_at: Sat, 19 Nov 2016 14:16:44 GMT
