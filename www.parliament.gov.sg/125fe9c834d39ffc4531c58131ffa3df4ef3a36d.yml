@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 18 Nov 2016 00:57:14 GMT
+    - Sat, 19 Nov 2016 09:15:06 GMT
     Etag:
-    - '"1479430634-1"'
+    - '"1479546906-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/321>; rel="shortlink",</mp/denise-phua-lay-peng>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Fri, 18 Nov 2016 00:58:23 GMT
+    - Sat, 19 Nov 2016 14:35:43 GMT
     Date:
-    - Fri, 18 Nov 2016 00:57:23 GMT
+    - Sat, 19 Nov 2016 14:34:43 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 18 Nov 2016 00:57:23 GMT
+recorded_at: Sat, 19 Nov 2016 14:34:43 GMT
