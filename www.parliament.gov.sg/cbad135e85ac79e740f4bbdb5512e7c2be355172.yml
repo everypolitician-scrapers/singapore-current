@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 18 Nov 2016 00:47:52 GMT
+    - Sat, 19 Nov 2016 09:10:44 GMT
     Etag:
-    - '"1479430072-1"'
+    - '"1479546644-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/654>; rel="shortlink",</mp/kok-heng-leun>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Fri, 18 Nov 2016 00:49:01 GMT
+    - Sat, 19 Nov 2016 14:27:45 GMT
     Date:
-    - Fri, 18 Nov 2016 00:48:01 GMT
+    - Sat, 19 Nov 2016 14:26:45 GMT
     Content-Length:
     - '30794'
     Connection:
@@ -51,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 18 Nov 2016 00:48:01 GMT
+recorded_at: Sat, 19 Nov 2016 14:26:45 GMT
