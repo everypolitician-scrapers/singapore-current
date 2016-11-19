@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 18 Nov 2016 01:06:39 GMT
+    - Sat, 19 Nov 2016 09:19:02 GMT
     Etag:
-    - '"1479431199-1"'
+    - '"1479547142-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/479>; rel="shortlink",</mp/lawrence-wong>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Fri, 18 Nov 2016 01:07:48 GMT
+    - Sat, 19 Nov 2016 14:42:59 GMT
     Date:
-    - Fri, 18 Nov 2016 01:06:48 GMT
+    - Sat, 19 Nov 2016 14:41:59 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 18 Nov 2016 01:06:48 GMT
+recorded_at: Sat, 19 Nov 2016 14:41:59 GMT
