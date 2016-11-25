@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 24 Nov 2016 14:15:41 GMT
+    - Fri, 25 Nov 2016 14:00:04 GMT
     Etag:
-    - '"1479996941-1"'
+    - '"1480082404-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/329>; rel="shortlink",</mp/sam-tan-chin-siong>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Thu, 24 Nov 2016 19:15:29 GMT
+    - Fri, 25 Nov 2016 14:01:12 GMT
     Date:
-    - Thu, 24 Nov 2016 19:14:29 GMT
+    - Fri, 25 Nov 2016 14:00:12 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 24 Nov 2016 19:14:29 GMT
+recorded_at: Fri, 25 Nov 2016 14:00:12 GMT
