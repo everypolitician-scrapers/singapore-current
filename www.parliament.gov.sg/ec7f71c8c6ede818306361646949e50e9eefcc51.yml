@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 24 Nov 2016 14:09:23 GMT
+    - Fri, 25 Nov 2016 13:43:09 GMT
     Etag:
-    - '"1479996563-1"'
+    - '"1480081389-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/396>; rel="shortlink",</mp/s-iswaran>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Thu, 24 Nov 2016 19:00:38 GMT
+    - Fri, 25 Nov 2016 13:44:17 GMT
     Date:
-    - Thu, 24 Nov 2016 18:59:38 GMT
+    - Fri, 25 Nov 2016 13:43:17 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 24 Nov 2016 18:59:38 GMT
+recorded_at: Fri, 25 Nov 2016 13:43:17 GMT
