@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 24 Nov 2016 14:10:20 GMT
+    - Fri, 25 Nov 2016 13:45:36 GMT
     Etag:
-    - '"1479996620-1"'
+    - '"1480081536-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/601>; rel="shortlink",</mp/kwek-hian-chuan-henry>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Thu, 24 Nov 2016 19:02:53 GMT
+    - Fri, 25 Nov 2016 13:46:43 GMT
     Date:
-    - Thu, 24 Nov 2016 19:01:53 GMT
+    - Fri, 25 Nov 2016 13:45:43 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 24 Nov 2016 19:01:53 GMT
+recorded_at: Fri, 25 Nov 2016 13:45:44 GMT
