@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 24 Nov 2016 14:16:06 GMT
+    - Fri, 25 Nov 2016 14:01:00 GMT
     Etag:
-    - '"1479996966-1"'
+    - '"1480082460-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/337>; rel="shortlink",</mp/teo-chee-hean>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Thu, 24 Nov 2016 19:16:18 GMT
+    - Fri, 25 Nov 2016 14:02:07 GMT
     Date:
-    - Thu, 24 Nov 2016 19:15:18 GMT
+    - Fri, 25 Nov 2016 14:01:07 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 24 Nov 2016 19:15:18 GMT
+recorded_at: Fri, 25 Nov 2016 14:01:08 GMT
