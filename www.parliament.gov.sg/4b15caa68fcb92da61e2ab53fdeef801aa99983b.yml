@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 24 Nov 2016 14:08:20 GMT
+    - Fri, 25 Nov 2016 13:40:26 GMT
     Etag:
-    - '"1479996500-1"'
+    - '"1480081226-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/653>; rel="shortlink",</mp/ganesh-rajaram>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Thu, 24 Nov 2016 18:58:30 GMT
+    - Fri, 25 Nov 2016 13:41:34 GMT
     Date:
-    - Thu, 24 Nov 2016 18:57:30 GMT
+    - Fri, 25 Nov 2016 13:40:34 GMT
     Content-Length:
     - '31118'
     Connection:
@@ -51,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 24 Nov 2016 18:57:30 GMT
+recorded_at: Fri, 25 Nov 2016 13:40:34 GMT
