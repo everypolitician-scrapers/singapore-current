@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 25 Nov 2016 14:01:39 GMT
+    - Sat, 26 Nov 2016 19:53:27 GMT
     Etag:
-    - '"1480082499-1"'
+    - '"1480190007-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/336>; rel="shortlink",</mp/josephine-teo>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Fri, 25 Nov 2016 14:02:46 GMT
+    - Sun, 27 Nov 2016 01:04:22 GMT
     Date:
-    - Fri, 25 Nov 2016 14:01:46 GMT
+    - Sun, 27 Nov 2016 01:03:22 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 25 Nov 2016 14:01:46 GMT
+recorded_at: Sun, 27 Nov 2016 01:03:22 GMT
