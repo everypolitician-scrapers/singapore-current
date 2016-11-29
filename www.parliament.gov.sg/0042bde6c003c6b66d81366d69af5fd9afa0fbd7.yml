@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 26 Nov 2016 20:34:50 GMT
+    - Tue, 29 Nov 2016 20:00:30 GMT
     Etag:
-    - '"1480192490-1"'
+    - '"1480449630-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/658>; rel="shortlink",</list-ncmps-and-nmps>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Sun, 27 Nov 2016 00:49:06 GMT
+    - Tue, 29 Nov 2016 20:01:37 GMT
     Date:
-    - Sun, 27 Nov 2016 00:48:06 GMT
+    - Tue, 29 Nov 2016 20:00:37 GMT
     Content-Length:
     - '28090'
     Connection:
@@ -51,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 27 Nov 2016 00:48:06 GMT
+recorded_at: Tue, 29 Nov 2016 20:00:38 GMT
