@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 26 Nov 2016 20:06:39 GMT
+    - Tue, 29 Nov 2016 20:03:08 GMT
     Etag:
-    - '"1480190799-1"'
+    - '"1480449788-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/569>; rel="shortlink",</mp/chia-yong-yong>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Sun, 27 Nov 2016 00:51:24 GMT
+    - Tue, 29 Nov 2016 20:04:15 GMT
     Date:
-    - Sun, 27 Nov 2016 00:50:24 GMT
+    - Tue, 29 Nov 2016 20:03:15 GMT
     Content-Length:
     - '31266'
     Connection:
@@ -51,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 27 Nov 2016 00:50:24 GMT
+recorded_at: Tue, 29 Nov 2016 20:03:15 GMT
