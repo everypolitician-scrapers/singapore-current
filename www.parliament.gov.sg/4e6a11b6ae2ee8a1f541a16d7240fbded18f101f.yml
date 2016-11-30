@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 29 Nov 2016 20:04:02 GMT
+    - Wed, 30 Nov 2016 14:07:14 GMT
     Etag:
-    - '"1480449842-1"'
+    - '"1480514834-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/570>; rel="shortlink",</mp/thomas-chua>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 29 Nov 2016 20:05:09 GMT
+    - Wed, 30 Nov 2016 17:04:49 GMT
     Date:
-    - Tue, 29 Nov 2016 20:04:09 GMT
+    - Wed, 30 Nov 2016 17:03:49 GMT
     Content-Length:
     - '31288'
     Connection:
@@ -51,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 29 Nov 2016 20:04:09 GMT
+recorded_at: Wed, 30 Nov 2016 17:03:49 GMT
