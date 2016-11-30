@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 29 Nov 2016 20:08:02 GMT
+    - Wed, 30 Nov 2016 14:09:40 GMT
     Etag:
-    - '"1480450082-1"'
+    - '"1480514980-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/468>; rel="shortlink",</mp/khaw-boon-wan>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 29 Nov 2016 20:09:09 GMT
+    - Wed, 30 Nov 2016 17:08:01 GMT
     Date:
-    - Tue, 29 Nov 2016 20:08:09 GMT
+    - Wed, 30 Nov 2016 17:07:01 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 29 Nov 2016 20:08:09 GMT
+recorded_at: Wed, 30 Nov 2016 17:07:01 GMT
