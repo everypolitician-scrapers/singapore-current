@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 29 Nov 2016 20:08:12 GMT
+    - Wed, 30 Nov 2016 14:09:48 GMT
     Etag:
-    - '"1480450092-1"'
+    - '"1480514988-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/471>; rel="shortlink",</mp/amy-khor-lean-suan>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 29 Nov 2016 20:09:19 GMT
+    - Wed, 30 Nov 2016 17:08:12 GMT
     Date:
-    - Tue, 29 Nov 2016 20:08:19 GMT
+    - Wed, 30 Nov 2016 17:07:12 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 29 Nov 2016 20:08:19 GMT
+recorded_at: Wed, 30 Nov 2016 17:07:12 GMT
