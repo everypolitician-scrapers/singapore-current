@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 29 Nov 2016 20:05:25 GMT
+    - Wed, 30 Nov 2016 14:08:07 GMT
     Etag:
-    - '"1480449925-1"'
+    - '"1480514887-1"'
     X-Drupal-Cache:
-    - MISS
+    - HIT
     Link:
     - </node/450>; rel="shortlink",</mp/gan-kim-yong>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 29 Nov 2016 20:06:32 GMT
+    - Wed, 30 Nov 2016 17:06:01 GMT
     Date:
-    - Tue, 29 Nov 2016 20:05:32 GMT
+    - Wed, 30 Nov 2016 17:05:01 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 29 Nov 2016 20:05:32 GMT
+recorded_at: Wed, 30 Nov 2016 17:05:01 GMT
