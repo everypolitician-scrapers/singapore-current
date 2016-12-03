@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 02 Dec 2016 20:09:29 GMT
+    - Sat, 03 Dec 2016 08:08:58 GMT
     Etag:
-    - '"1480709369-1"'
+    - '"1480752538-1"'
     X-Drupal-Cache:
     - HIT
     Link:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Fri, 02 Dec 2016 23:20:04 GMT
+    - Sat, 03 Dec 2016 13:35:58 GMT
     Date:
-    - Fri, 02 Dec 2016 23:19:04 GMT
+    - Sat, 03 Dec 2016 13:34:58 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 02 Dec 2016 23:19:04 GMT
+recorded_at: Sat, 03 Dec 2016 13:34:58 GMT
