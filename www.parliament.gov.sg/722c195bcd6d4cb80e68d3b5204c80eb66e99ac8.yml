@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Tue, 06 Dec 2016 11:53:51 GMT
+    - Tue, 06 Dec 2016 12:19:21 GMT
     Date:
-    - Tue, 06 Dec 2016 11:52:51 GMT
+    - Tue, 06 Dec 2016 12:18:21 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 06 Dec 2016 11:52:51 GMT
+recorded_at: Tue, 06 Dec 2016 12:18:21 GMT
