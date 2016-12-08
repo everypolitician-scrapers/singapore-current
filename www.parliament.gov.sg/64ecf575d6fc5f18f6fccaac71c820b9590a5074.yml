@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 07 Dec 2016 14:18:14 GMT
+    - Thu, 08 Dec 2016 09:22:24 GMT
     Etag:
-    - '"1481120294-1"'
+    - '"1481188944-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/270>; rel="shortlink",</mp/christopher-de-souza>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Wed, 07 Dec 2016 18:36:03 GMT
+    - Thu, 08 Dec 2016 09:23:33 GMT
     Date:
-    - Wed, 07 Dec 2016 18:35:03 GMT
+    - Thu, 08 Dec 2016 09:22:33 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 07 Dec 2016 18:35:03 GMT
+recorded_at: Thu, 08 Dec 2016 09:22:33 GMT
