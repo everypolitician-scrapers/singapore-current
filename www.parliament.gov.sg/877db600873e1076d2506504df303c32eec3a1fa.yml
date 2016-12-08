@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 07 Dec 2016 14:55:50 GMT
+    - Thu, 08 Dec 2016 09:30:10 GMT
     Etag:
-    - '"1481122550-1"'
+    - '"1481189410-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/655>; rel="shortlink",</mp/mahdev-mohan>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Wed, 07 Dec 2016 18:44:32 GMT
+    - Thu, 08 Dec 2016 09:31:18 GMT
     Date:
-    - Wed, 07 Dec 2016 18:43:32 GMT
+    - Thu, 08 Dec 2016 09:30:18 GMT
     Content-Length:
     - '31183'
     Connection:
@@ -51,4 +51,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 07 Dec 2016 18:43:32 GMT
+recorded_at: Thu, 08 Dec 2016 09:30:18 GMT
