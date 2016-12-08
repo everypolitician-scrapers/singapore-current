@@ -22,11 +22,11 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 07 Dec 2016 14:53:39 GMT
+    - Thu, 08 Dec 2016 09:21:41 GMT
     Etag:
-    - '"1481122419-1"'
+    - '"1481188901-1"'
     X-Drupal-Cache:
-    - HIT
+    - MISS
     Link:
     - </node/597>; rel="shortlink",</mp/chong-kee-hiong>; rel="canonical"
     X-Generator:
@@ -41,9 +41,9 @@ response:
     Cache-Control:
     - public, max-age=60
     Expires:
-    - Wed, 07 Dec 2016 18:35:18 GMT
+    - Thu, 08 Dec 2016 09:22:50 GMT
     Date:
-    - Wed, 07 Dec 2016 18:34:18 GMT
+    - Thu, 08 Dec 2016 09:21:50 GMT
     Connection:
     - Transfer-Encoding
     - keep-alive
@@ -52,4 +52,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 07 Dec 2016 18:34:18 GMT
+recorded_at: Thu, 08 Dec 2016 09:21:50 GMT
