@@ -22,11 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Dec 2016 09:21:27 GMT
+    - Fri, 09 Dec 2016 21:20:03 GMT
     Etag:
-    - '"1481188887-1"'
-    X-Drupal-Cache:
-    - MISS
+    - '"1481318403"'
     Link:
     - </node/254>; rel="shortlink",</mp/charles-chong>; rel="canonical"
     X-Generator:
@@ -35,21 +33,17 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Vary:
-    - Accept-Encoding
-    - cookie
-    Cache-Control:
-    - public, max-age=60
-    Expires:
-    - Thu, 08 Dec 2016 09:22:36 GMT
-    Date:
-    - Thu, 08 Dec 2016 09:21:36 GMT
-    Connection:
-    - Transfer-Encoding
-    - keep-alive
     Content-Length:
-    - '37715'
+    - '37810'
+    Cache-Control:
+    - no-cache, must-revalidate, post-check=0, pre-check=0
+    Expires:
+    - Fri, 09 Dec 2016 21:20:13 GMT
+    Date:
+    - Fri, 09 Dec 2016 21:20:13 GMT
+    Connection:
+    - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Dec 2016 09:21:36 GMT
+recorded_at: Fri, 09 Dec 2016 21:20:13 GMT
