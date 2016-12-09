@@ -22,11 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Dec 2016 09:16:25 GMT
+    - Fri, 09 Dec 2016 21:34:48 GMT
     Etag:
-    - '"1481188585-1"'
-    X-Drupal-Cache:
-    - HIT
+    - '"1481319288"'
     Link:
     - </node/576>; rel="shortlink",</mp/randolph-tan>; rel="canonical"
     X-Generator:
@@ -35,20 +33,17 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Vary:
-    - Accept-Encoding
-    - cookie
-    Cache-Control:
-    - public, max-age=60
-    Expires:
-    - Thu, 08 Dec 2016 09:35:59 GMT
-    Date:
-    - Thu, 08 Dec 2016 09:34:59 GMT
     Content-Length:
-    - '31352'
+    - '31447'
+    Cache-Control:
+    - no-cache, must-revalidate, post-check=0, pre-check=0
+    Expires:
+    - Fri, 09 Dec 2016 21:34:58 GMT
+    Date:
+    - Fri, 09 Dec 2016 21:34:58 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Dec 2016 09:34:59 GMT
+recorded_at: Fri, 09 Dec 2016 21:34:58 GMT
