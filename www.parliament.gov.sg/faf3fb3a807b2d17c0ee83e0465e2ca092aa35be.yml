@@ -22,11 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Dec 2016 09:28:09 GMT
+    - Fri, 09 Dec 2016 21:27:05 GMT
     Etag:
-    - '"1481189289-1"'
-    X-Drupal-Cache:
-    - MISS
+    - '"1481318825"'
     Link:
     - </node/294>; rel="shortlink",</mp/lee-yi-shyan>; rel="canonical"
     X-Generator:
@@ -35,21 +33,17 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Vary:
-    - Accept-Encoding
-    - cookie
-    Cache-Control:
-    - public, max-age=60
-    Expires:
-    - Thu, 08 Dec 2016 09:29:17 GMT
-    Date:
-    - Thu, 08 Dec 2016 09:28:17 GMT
-    Connection:
-    - Transfer-Encoding
-    - keep-alive
     Content-Length:
-    - '36183'
+    - '36278'
+    Cache-Control:
+    - no-cache, must-revalidate, post-check=0, pre-check=0
+    Expires:
+    - Fri, 09 Dec 2016 21:27:15 GMT
+    Date:
+    - Fri, 09 Dec 2016 21:27:15 GMT
+    Connection:
+    - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Dec 2016 09:28:17 GMT
+recorded_at: Fri, 09 Dec 2016 21:27:15 GMT
