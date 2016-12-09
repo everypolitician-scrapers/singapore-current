@@ -22,11 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Dec 2016 09:17:34 GMT
+    - Fri, 09 Dec 2016 21:36:24 GMT
     Etag:
-    - '"1481188654-1"'
-    X-Drupal-Cache:
-    - HIT
+    - '"1481319384"'
     Link:
     - </node/656>; rel="shortlink",</mp/k-thanaletchimi>; rel="canonical"
     X-Generator:
@@ -35,20 +33,17 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Vary:
-    - Accept-Encoding
-    - cookie
-    Cache-Control:
-    - public, max-age=60
-    Expires:
-    - Thu, 08 Dec 2016 09:37:25 GMT
-    Date:
-    - Thu, 08 Dec 2016 09:36:25 GMT
     Content-Length:
-    - '31112'
+    - '31207'
+    Cache-Control:
+    - no-cache, must-revalidate, post-check=0, pre-check=0
+    Expires:
+    - Fri, 09 Dec 2016 21:36:33 GMT
+    Date:
+    - Fri, 09 Dec 2016 21:36:33 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Dec 2016 09:36:26 GMT
+recorded_at: Fri, 09 Dec 2016 21:36:33 GMT
