@@ -22,11 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Dec 2016 09:19:32 GMT
+    - Fri, 09 Dec 2016 21:18:04 GMT
     Etag:
-    - '"1481188772-1"'
-    X-Drupal-Cache:
-    - MISS
+    - '"1481318284"'
     Link:
     - </node/652>; rel="shortlink",</mp/azmoon-ahmad>; rel="canonical"
     X-Generator:
@@ -35,20 +33,17 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Vary:
-    - Accept-Encoding
-    - cookie
-    Cache-Control:
-    - public, max-age=60
-    Expires:
-    - Thu, 08 Dec 2016 09:20:41 GMT
-    Date:
-    - Thu, 08 Dec 2016 09:19:41 GMT
     Content-Length:
-    - '31082'
+    - '31177'
+    Cache-Control:
+    - no-cache, must-revalidate, post-check=0, pre-check=0
+    Expires:
+    - Fri, 09 Dec 2016 21:18:14 GMT
+    Date:
+    - Fri, 09 Dec 2016 21:18:14 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Dec 2016 09:19:41 GMT
+recorded_at: Fri, 09 Dec 2016 21:18:14 GMT
