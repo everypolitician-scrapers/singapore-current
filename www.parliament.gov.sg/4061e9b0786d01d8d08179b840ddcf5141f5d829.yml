@@ -22,11 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 08 Dec 2016 09:19:42 GMT
+    - Fri, 09 Dec 2016 21:18:17 GMT
     Etag:
-    - '"1481188782-1"'
-    X-Drupal-Cache:
-    - MISS
+    - '"1481318297"'
     Link:
     - </node/258>; rel="shortlink",</mp/baey-yam-keng>; rel="canonical"
     X-Generator:
@@ -35,21 +33,17 @@ response:
     - SAMEORIGIN
     Server:
     - ''
-    Vary:
-    - Accept-Encoding
-    - cookie
-    Cache-Control:
-    - public, max-age=60
-    Expires:
-    - Thu, 08 Dec 2016 09:20:51 GMT
-    Date:
-    - Thu, 08 Dec 2016 09:19:51 GMT
-    Connection:
-    - Transfer-Encoding
-    - keep-alive
     Content-Length:
-    - '37427'
+    - '37522'
+    Cache-Control:
+    - no-cache, must-revalidate, post-check=0, pre-check=0
+    Expires:
+    - Fri, 09 Dec 2016 21:18:27 GMT
+    Date:
+    - Fri, 09 Dec 2016 21:18:27 GMT
+    Connection:
+    - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Dec 2016 09:19:51 GMT
+recorded_at: Fri, 09 Dec 2016 21:18:27 GMT
