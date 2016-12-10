@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 09 Dec 2016 21:16:58 GMT
+    - Sat, 10 Dec 2016 18:05:52 GMT
     Etag:
-    - '"1481318218"'
+    - '"1481393152"'
     Link:
     - </node/658>; rel="shortlink",</list-ncmps-and-nmps>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 09 Dec 2016 21:17:07 GMT
+    - Sat, 10 Dec 2016 18:06:03 GMT
     Date:
-    - Fri, 09 Dec 2016 21:17:07 GMT
+    - Sat, 10 Dec 2016 18:06:03 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 09 Dec 2016 21:17:07 GMT
+recorded_at: Sat, 10 Dec 2016 18:06:03 GMT
