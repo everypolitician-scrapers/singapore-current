@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 04 Jan 2017 06:02:35 GMT
+    - Thu, 05 Jan 2017 21:29:51 GMT
     Etag:
-    - '"1483509755"'
+    - '"1483651791"'
     Link:
     - </node/371>; rel="shortlink",</mp/lee-hsien-loong>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 04 Jan 2017 06:02:42 GMT
+    - Thu, 05 Jan 2017 21:29:58 GMT
     Date:
-    - Wed, 04 Jan 2017 06:02:42 GMT
+    - Thu, 05 Jan 2017 21:29:58 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 04 Jan 2017 06:02:42 GMT
+recorded_at: Thu, 05 Jan 2017 21:29:58 GMT
