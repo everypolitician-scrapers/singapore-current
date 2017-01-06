@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 05 Jan 2017 21:26:47 GMT
+    - Fri, 06 Jan 2017 09:19:30 GMT
     Etag:
-    - '"1483651607"'
+    - '"1483694370"'
     Link:
     - </node/396>; rel="shortlink",</mp/s-iswaran>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 05 Jan 2017 21:26:52 GMT
+    - Fri, 06 Jan 2017 09:19:35 GMT
     Date:
-    - Thu, 05 Jan 2017 21:26:52 GMT
+    - Fri, 06 Jan 2017 09:19:35 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 05 Jan 2017 21:26:52 GMT
+recorded_at: Fri, 06 Jan 2017 09:19:35 GMT
