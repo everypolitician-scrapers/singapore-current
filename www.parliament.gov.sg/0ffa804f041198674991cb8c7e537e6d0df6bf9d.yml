@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 06 Jan 2017 09:24:38 GMT
+    - Sat, 07 Jan 2017 03:03:16 GMT
     Etag:
-    - '"1483694678"'
+    - '"1483758196"'
     Link:
     - </node/314>; rel="shortlink",</mp/masagos-zulkifli-bin-masagos-mohamad>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 06 Jan 2017 09:24:42 GMT
+    - Sat, 07 Jan 2017 03:03:21 GMT
     Date:
-    - Fri, 06 Jan 2017 09:24:42 GMT
+    - Sat, 07 Jan 2017 03:03:21 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 06 Jan 2017 09:24:42 GMT
+recorded_at: Sat, 07 Jan 2017 03:03:21 GMT
