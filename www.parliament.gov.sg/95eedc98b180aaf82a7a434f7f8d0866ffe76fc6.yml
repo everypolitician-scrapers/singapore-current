@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 06 Jan 2017 09:11:58 GMT
+    - Sat, 07 Jan 2017 02:50:40 GMT
     Etag:
-    - '"1483693918"'
+    - '"1483757440"'
     Link:
     - </node/593>; rel="shortlink",</mp/amrin-amin>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 06 Jan 2017 09:12:07 GMT
+    - Sat, 07 Jan 2017 02:50:45 GMT
     Date:
-    - Fri, 06 Jan 2017 09:12:07 GMT
+    - Sat, 07 Jan 2017 02:50:45 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 06 Jan 2017 09:12:07 GMT
+recorded_at: Sat, 07 Jan 2017 02:50:45 GMT
