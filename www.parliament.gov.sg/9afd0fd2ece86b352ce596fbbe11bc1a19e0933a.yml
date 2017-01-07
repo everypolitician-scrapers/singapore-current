@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 06 Jan 2017 09:14:44 GMT
+    - Sat, 07 Jan 2017 02:53:22 GMT
     Etag:
-    - '"1483694084"'
+    - '"1483757602"'
     Link:
     - </node/254>; rel="shortlink",</mp/charles-chong>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 06 Jan 2017 09:14:49 GMT
+    - Sat, 07 Jan 2017 02:53:28 GMT
     Date:
-    - Fri, 06 Jan 2017 09:14:49 GMT
+    - Sat, 07 Jan 2017 02:53:28 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 06 Jan 2017 09:14:49 GMT
+recorded_at: Sat, 07 Jan 2017 02:53:28 GMT
