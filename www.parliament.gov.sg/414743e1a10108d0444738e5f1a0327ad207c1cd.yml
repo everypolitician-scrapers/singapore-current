@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 08 Jan 2017 22:39:17 GMT
+    - Mon, 09 Jan 2017 20:08:20 GMT
     Etag:
-    - '"1483915157"'
+    - '"1483992500"'
     Link:
     - </node/502>; rel="shortlink",</mp/low-yen-ling>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '36700'
+    - '36705'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 08 Jan 2017 22:39:23 GMT
+    - Mon, 09 Jan 2017 20:08:27 GMT
     Date:
-    - Sun, 08 Jan 2017 22:39:23 GMT
+    - Mon, 09 Jan 2017 20:08:27 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 08 Jan 2017 22:39:23 GMT
+recorded_at: Mon, 09 Jan 2017 20:08:27 GMT
