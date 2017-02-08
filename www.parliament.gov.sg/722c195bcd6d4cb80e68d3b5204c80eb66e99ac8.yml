@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 06 Feb 2017 23:23:45 GMT
+    - Wed, 08 Feb 2017 10:08:45 GMT
     Etag:
-    - '"1486423425"'
+    - '"1486548525"'
     Link:
     - </node/467>; rel="shortlink",</mp/chen-show-mao>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 06 Feb 2017 23:23:50 GMT
+    - Wed, 08 Feb 2017 10:08:52 GMT
     Date:
-    - Mon, 06 Feb 2017 23:23:50 GMT
+    - Wed, 08 Feb 2017 10:08:52 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 06 Feb 2017 23:23:50 GMT
+recorded_at: Wed, 08 Feb 2017 10:08:52 GMT
