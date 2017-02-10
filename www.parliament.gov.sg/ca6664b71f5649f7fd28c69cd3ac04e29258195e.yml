@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 09 Feb 2017 06:53:52 GMT
+    - Fri, 10 Feb 2017 20:33:18 GMT
     Etag:
-    - '"1486623232"'
+    - '"1486758798"'
     Link:
     - </node/402>; rel="shortlink",</mp/lily-neo>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '37626'
+    - '37627'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 09 Feb 2017 06:54:00 GMT
+    - Fri, 10 Feb 2017 20:33:28 GMT
     Date:
-    - Thu, 09 Feb 2017 06:54:00 GMT
+    - Fri, 10 Feb 2017 20:33:28 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 09 Feb 2017 06:54:00 GMT
+recorded_at: Fri, 10 Feb 2017 20:33:28 GMT
