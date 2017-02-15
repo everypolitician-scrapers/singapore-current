@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 14 Feb 2017 05:50:00 GMT
+    - Wed, 15 Feb 2017 16:34:02 GMT
     Etag:
-    - '"1487051400"'
+    - '"1487176442"'
     Link:
     - </node/286>; rel="shortlink",</mp/lee-bee-wah>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 14 Feb 2017 05:50:06 GMT
+    - Wed, 15 Feb 2017 16:34:10 GMT
     Date:
-    - Tue, 14 Feb 2017 05:50:06 GMT
+    - Wed, 15 Feb 2017 16:34:10 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 14 Feb 2017 05:50:06 GMT
+recorded_at: Wed, 15 Feb 2017 16:34:10 GMT
