@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 15 Feb 2017 16:41:21 GMT
+    - Thu, 16 Feb 2017 22:39:25 GMT
     Etag:
-    - '"1487176881"'
+    - '"1487284765"'
     Link:
     - </node/607>; rel="shortlink",</mp/saktiandi-supaat>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 15 Feb 2017 16:41:28 GMT
+    - Thu, 16 Feb 2017 22:39:34 GMT
     Date:
-    - Wed, 15 Feb 2017 16:41:28 GMT
+    - Thu, 16 Feb 2017 22:39:34 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 15 Feb 2017 16:41:28 GMT
+recorded_at: Thu, 16 Feb 2017 22:39:34 GMT
