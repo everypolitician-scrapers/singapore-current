@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 22 Feb 2017 03:42:57 GMT
+    - Thu, 23 Feb 2017 21:57:07 GMT
     Etag:
-    - '"1487734977"'
+    - '"1487887027"'
     Link:
     - </node/476>; rel="shortlink",</mp/alex-yam-ziming>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '35430'
+    - '35354'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 22 Feb 2017 03:43:04 GMT
+    - Thu, 23 Feb 2017 21:57:17 GMT
     Date:
-    - Wed, 22 Feb 2017 03:43:04 GMT
+    - Thu, 23 Feb 2017 21:57:17 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 22 Feb 2017 03:43:04 GMT
+recorded_at: Thu, 23 Feb 2017 21:57:17 GMT
