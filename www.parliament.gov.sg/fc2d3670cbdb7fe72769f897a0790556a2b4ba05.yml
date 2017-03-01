@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 28 Feb 2017 15:10:41 GMT
+    - Wed, 01 Mar 2017 18:11:31 GMT
     Etag:
-    - '"1488294641"'
+    - '"1488391891"'
     Link:
     - </node/482>; rel="shortlink",</mp/gan-thiam-poh>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '47954'
+    - '47953'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 28 Feb 2017 15:10:47 GMT
+    - Wed, 01 Mar 2017 18:11:38 GMT
     Date:
-    - Tue, 28 Feb 2017 15:10:47 GMT
+    - Wed, 01 Mar 2017 18:11:38 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 28 Feb 2017 15:10:47 GMT
+recorded_at: Wed, 01 Mar 2017 18:11:38 GMT
