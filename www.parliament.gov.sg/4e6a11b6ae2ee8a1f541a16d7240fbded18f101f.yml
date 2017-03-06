@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 05 Mar 2017 09:54:56 GMT
+    - Mon, 06 Mar 2017 01:17:49 GMT
     Etag:
-    - '"1488707696"'
+    - '"1488763069"'
     Link:
     - </node/570>; rel="shortlink",</mp/thomas-chua>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 05 Mar 2017 09:55:07 GMT
+    - Mon, 06 Mar 2017 01:17:54 GMT
     Date:
-    - Sun, 05 Mar 2017 09:55:07 GMT
+    - Mon, 06 Mar 2017 01:17:54 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 05 Mar 2017 09:55:08 GMT
+recorded_at: Mon, 06 Mar 2017 01:17:54 GMT
