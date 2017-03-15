@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 09 Mar 2017 07:54:19 GMT
+    - Wed, 15 Mar 2017 10:43:13 GMT
     Etag:
-    - '"1489046059"'
+    - '"1489574593"'
     Link:
     - </node/465>; rel="shortlink",</mp/chan-chun-sing>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '41052'
+    - '41053'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 09 Mar 2017 07:54:27 GMT
+    - Wed, 15 Mar 2017 10:43:21 GMT
     Date:
-    - Thu, 09 Mar 2017 07:54:27 GMT
+    - Wed, 15 Mar 2017 10:43:21 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 09 Mar 2017 07:54:27 GMT
+recorded_at: Wed, 15 Mar 2017 10:43:21 GMT
