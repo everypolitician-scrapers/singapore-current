@@ -76,7 +76,7 @@ DEPENDENCIES
   wikidata-client (~> 0.0.7)
 
 RUBY VERSION
-   ruby 2.0.0p481
+   ruby 2.3.3p222
 
 BUNDLED WITH
-   1.12.5
+   1.14.5
