@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 18 Mar 2017 06:46:54 GMT
+    - Sun, 19 Mar 2017 05:28:52 GMT
     Etag:
-    - '"1489819614"'
+    - '"1489901332"'
     Link:
     - </node/575>; rel="shortlink",</mp/kuik-shiao-yin>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 18 Mar 2017 06:47:05 GMT
+    - Sun, 19 Mar 2017 05:28:57 GMT
     Date:
-    - Sat, 18 Mar 2017 06:47:05 GMT
+    - Sun, 19 Mar 2017 05:28:57 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 18 Mar 2017 06:47:05 GMT
+recorded_at: Sun, 19 Mar 2017 05:28:57 GMT
