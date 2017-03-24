@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 23 Mar 2017 20:09:54 GMT
+    - Fri, 24 Mar 2017 06:32:47 GMT
     Etag:
-    - '"1490299794"'
+    - '"1490337167"'
     Link:
     - </node/336>; rel="shortlink",</mp/josephine-teo>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 23 Mar 2017 20:10:04 GMT
+    - Fri, 24 Mar 2017 06:32:57 GMT
     Date:
-    - Thu, 23 Mar 2017 20:10:04 GMT
+    - Fri, 24 Mar 2017 06:32:57 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 23 Mar 2017 20:10:04 GMT
+recorded_at: Fri, 24 Mar 2017 06:32:57 GMT
