@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 23 Mar 2017 19:52:22 GMT
+    - Fri, 24 Mar 2017 06:15:09 GMT
     Etag:
-    - '"1490298742"'
+    - '"1490336109"'
     Link:
     - </node/258>; rel="shortlink",</mp/baey-yam-keng>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 23 Mar 2017 19:52:31 GMT
+    - Fri, 24 Mar 2017 06:15:19 GMT
     Date:
-    - Thu, 23 Mar 2017 19:52:31 GMT
+    - Fri, 24 Mar 2017 06:15:19 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 23 Mar 2017 19:52:31 GMT
+recorded_at: Fri, 24 Mar 2017 06:15:19 GMT
