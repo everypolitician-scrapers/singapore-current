@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 28 Mar 2017 08:03:52 GMT
+    - Wed, 29 Mar 2017 01:34:30 GMT
     Etag:
-    - '"1490688232"'
+    - '"1490751270"'
     Link:
     - </node/281>; rel="shortlink",</mp/lam-pin-min>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 28 Mar 2017 08:03:58 GMT
+    - Wed, 29 Mar 2017 01:34:37 GMT
     Date:
-    - Tue, 28 Mar 2017 08:03:58 GMT
+    - Wed, 29 Mar 2017 01:34:37 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 28 Mar 2017 08:03:58 GMT
+recorded_at: Wed, 29 Mar 2017 01:34:37 GMT
