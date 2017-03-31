@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 30 Mar 2017 12:37:41 GMT
+    - Fri, 31 Mar 2017 05:03:38 GMT
     Etag:
-    - '"1490877461"'
+    - '"1490936618"'
     Link:
     - </node/491>; rel="shortlink",</mp/patrick-tay-teck-guan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 30 Mar 2017 12:37:49 GMT
+    - Fri, 31 Mar 2017 05:03:48 GMT
     Date:
-    - Thu, 30 Mar 2017 12:37:49 GMT
+    - Fri, 31 Mar 2017 05:03:48 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 30 Mar 2017 12:37:49 GMT
+recorded_at: Fri, 31 Mar 2017 05:03:48 GMT
