@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 18 Apr 2017 02:53:36 GMT
+    - Wed, 19 Apr 2017 09:13:20 GMT
     Etag:
-    - '"1492484016"'
+    - '"1492593200"'
     Link:
     - </node/400>; rel="shortlink",</mp/lim-swee-say>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 18 Apr 2017 02:53:41 GMT
+    - Wed, 19 Apr 2017 09:13:27 GMT
     Date:
-    - Tue, 18 Apr 2017 02:53:41 GMT
+    - Wed, 19 Apr 2017 09:13:27 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 18 Apr 2017 02:53:41 GMT
+recorded_at: Wed, 19 Apr 2017 09:13:27 GMT
