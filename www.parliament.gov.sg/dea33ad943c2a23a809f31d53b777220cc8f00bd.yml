@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 23 Apr 2017 00:32:54 GMT
+    - Mon, 24 Apr 2017 02:46:26 GMT
     Etag:
-    - '"1492907574"'
+    - '"1493001986"'
     Link:
     - </node/340>; rel="shortlink",</mp/teo-ser-luck>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 23 Apr 2017 00:32:58 GMT
+    - Mon, 24 Apr 2017 02:46:31 GMT
     Date:
-    - Sun, 23 Apr 2017 00:32:58 GMT
+    - Mon, 24 Apr 2017 02:46:31 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 23 Apr 2017 00:32:58 GMT
+recorded_at: Mon, 24 Apr 2017 02:46:31 GMT
