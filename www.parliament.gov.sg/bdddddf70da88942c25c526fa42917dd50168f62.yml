@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 25 Apr 2017 21:46:51 GMT
+    - Wed, 26 Apr 2017 23:22:19 GMT
     Etag:
-    - '"1493156811"'
+    - '"1493248939"'
     Link:
     - </node/471>; rel="shortlink",</mp/amy-khor-lean-suan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 25 Apr 2017 21:46:59 GMT
+    - Wed, 26 Apr 2017 23:22:28 GMT
     Date:
-    - Tue, 25 Apr 2017 21:46:59 GMT
+    - Wed, 26 Apr 2017 23:22:28 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 25 Apr 2017 21:46:59 GMT
+recorded_at: Wed, 26 Apr 2017 23:22:28 GMT
