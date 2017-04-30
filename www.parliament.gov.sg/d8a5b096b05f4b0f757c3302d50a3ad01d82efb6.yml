@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 29 Apr 2017 23:46:27 GMT
+    - Sun, 30 Apr 2017 01:39:18 GMT
     Etag:
-    - '"1493509587"'
+    - '"1493516358"'
     Link:
     - </node/495>; rel="shortlink",</mp/sitoh-yih-pin>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 29 Apr 2017 23:46:31 GMT
+    - Sun, 30 Apr 2017 01:39:22 GMT
     Date:
-    - Sat, 29 Apr 2017 23:46:31 GMT
+    - Sun, 30 Apr 2017 01:39:22 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 29 Apr 2017 23:46:31 GMT
+recorded_at: Sun, 30 Apr 2017 01:39:22 GMT
