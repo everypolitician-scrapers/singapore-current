@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 01 May 2017 04:51:50 GMT
+    - Tue, 02 May 2017 18:32:20 GMT
     Etag:
-    - '"1493614310"'
+    - '"1493749940"'
     Link:
     - </node/429>; rel="shortlink",</mp/yaacob-ibrahim>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '45938'
+    - '45937'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 01 May 2017 04:51:56 GMT
+    - Tue, 02 May 2017 18:32:27 GMT
     Date:
-    - Mon, 01 May 2017 04:51:56 GMT
+    - Tue, 02 May 2017 18:32:27 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 01 May 2017 04:51:56 GMT
+recorded_at: Tue, 02 May 2017 18:32:27 GMT
