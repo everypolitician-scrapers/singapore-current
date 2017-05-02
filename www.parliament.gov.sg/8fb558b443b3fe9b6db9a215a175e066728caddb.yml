@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 01 May 2017 04:32:48 GMT
+    - Tue, 02 May 2017 18:13:10 GMT
     Etag:
-    - '"1493613168"'
+    - '"1493748790"'
     Link:
     - </node/598>; rel="shortlink",</mp/desmond-choo>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '38611'
+    - '38610'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 01 May 2017 04:32:54 GMT
+    - Tue, 02 May 2017 18:13:18 GMT
     Date:
-    - Mon, 01 May 2017 04:32:54 GMT
+    - Tue, 02 May 2017 18:13:18 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 01 May 2017 04:32:54 GMT
+recorded_at: Tue, 02 May 2017 18:13:18 GMT
