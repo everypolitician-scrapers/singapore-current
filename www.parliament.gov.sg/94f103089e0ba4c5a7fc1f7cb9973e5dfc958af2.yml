@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 02 May 2017 18:12:10 GMT
+    - Wed, 03 May 2017 21:25:57 GMT
     Etag:
-    - '"1493748730"'
+    - '"1493846757"'
     Link:
     - </node/470>; rel="shortlink",</mp/chia-shi-lu>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 02 May 2017 18:12:17 GMT
+    - Wed, 03 May 2017 21:26:06 GMT
     Date:
-    - Tue, 02 May 2017 18:12:17 GMT
+    - Wed, 03 May 2017 21:26:06 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 02 May 2017 18:12:17 GMT
+recorded_at: Wed, 03 May 2017 21:26:06 GMT
