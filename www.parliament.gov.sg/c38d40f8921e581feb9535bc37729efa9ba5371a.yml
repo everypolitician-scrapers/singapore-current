@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 08 May 2017 05:23:26 GMT
+    - Tue, 09 May 2017 11:37:23 GMT
     Etag:
-    - '"1494221006"'
+    - '"1494329843"'
     Link:
     - </node/450>; rel="shortlink",</mp/gan-kim-yong>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '43361'
+    - '43352'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 08 May 2017 05:23:32 GMT
+    - Tue, 09 May 2017 11:37:29 GMT
     Date:
-    - Mon, 08 May 2017 05:23:32 GMT
+    - Tue, 09 May 2017 11:37:29 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 08 May 2017 05:23:32 GMT
+recorded_at: Tue, 09 May 2017 11:37:29 GMT
