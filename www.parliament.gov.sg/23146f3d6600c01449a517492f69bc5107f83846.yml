@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 08 May 2017 05:35:12 GMT
+    - Tue, 09 May 2017 11:48:58 GMT
     Etag:
-    - '"1494221712"'
+    - '"1494330538"'
     Link:
     - </node/325>; rel="shortlink",</mp/seah-kian-peng>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '41948'
+    - '41939'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 08 May 2017 05:35:17 GMT
+    - Tue, 09 May 2017 11:49:04 GMT
     Date:
-    - Mon, 08 May 2017 05:35:17 GMT
+    - Tue, 09 May 2017 11:49:04 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 08 May 2017 05:35:17 GMT
+recorded_at: Tue, 09 May 2017 11:49:04 GMT
