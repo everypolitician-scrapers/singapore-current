@@ -1,16 +1,26 @@
-# It's easy to add more libraries or choose different versions. Any libraries
-# specified here will be installed and made available to your morph.io scraper.
-# Find out more: https://morph.io/documentation/ruby
+# frozen_string_literal: true
 
 source 'https://rubygems.org'
 
 ruby '2.3.3'
 
-gem 'scraperwiki', git: 'https://github.com/openaustralia/scraperwiki-ruby.git', branch: 'morph_defaults'
-gem 'pry'
-gem 'colorize'
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
+
+gem 'execjs'
+gem 'minitest'
+gem 'minitest-around'
+gem 'minitest-vcr'
 gem 'nokogiri'
 gem 'open-uri-cached'
-gem 'wikidata-client', '~> 0.0.7', require: 'wikidata'
-gem 'scraped_page_archive', git: 'https://github.com/everypolitician/scraped_page_archive'
-
+gem 'pry'
+gem 'rake'
+gem 'rest-client'
+gem 'rubocop'
+gem 'scraped', github: 'everypolitician/scraped'
+gem 'scraped_page_archive', github: 'everypolitician/scraped_page_archive'
+gem 'scraper_test', github: 'everypolitician/scraper_test'
+gem 'scraperwiki', github: 'openaustralia/scraperwiki-ruby',
+                   branch: 'morph_defaults'
+gem 'table_unspanner', github: 'everypolitician/table_unspanner'
+gem 'vcr'
+gem 'webmock'
