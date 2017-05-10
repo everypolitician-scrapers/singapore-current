@@ -1,11 +1,12 @@
 #!/bin/env ruby
 # encoding: utf-8
+# frozen_string_literal: true
 
 require 'pry'
 
 class String
   def tidy
-    self.gsub(/[[:space:]]+/, ' ').strip
+    gsub(/[[:space:]]+/, ' ').strip
   end
 end
 
@@ -19,8 +20,8 @@ class ScrapedPage
   end
 
   def data
-    _ = noko  # always fetch the page, even if nothing uses it
-   @data ||= protected_methods.map { |m| [m, send(m)] }.to_h
+    _ = noko # always fetch the page, even if nothing uses it
+    @data ||= protected_methods.map { |m| [m, send(m)] }.to_h
   end
 
   private
@@ -44,9 +45,9 @@ class CurrentMPs < ScrapedPage
     mp_list_table.css('tr').drop(1).map do |tr|
       td = tr.css('td')
       {
-        number: td[0].text.tidy,
-        name: td[1].text.tidy,
-        url: absolute_url(td[1].css('a/@href').text.tidy),
+        number:       td[0].text.tidy,
+        name:         td[1].text.tidy,
+        url:          absolute_url(td[1].css('a/@href').text.tidy),
         constituency: td[2].text.tidy,
       }
     end
@@ -66,4 +67,3 @@ _ = ScrapedPage.new(url: 'http://www.parliament.gov.sg/list-ncmps-and-nmps').dat
 # Archive each MP page listed on the "Current MPs" page
 page = CurrentMPs.new(url: 'http://www.parliament.gov.sg/list-of-current-mps')
 page.data[:current_mps].each { |mp| _ = ScrapedPage.new(url: mp[:url]).data }
-
