@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 13 May 2017 10:22:05 GMT
+    - Sun, 14 May 2017 02:00:50 GMT
     Etag:
-    - '"1494670925"'
+    - '"1494727250"'
     Link:
     - </node/576>; rel="shortlink",</mp/randolph-tan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 13 May 2017 10:22:15 GMT
+    - Sun, 14 May 2017 02:01:01 GMT
     Date:
-    - Sat, 13 May 2017 10:22:15 GMT
+    - Sun, 14 May 2017 02:01:01 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 13 May 2017 10:22:15 GMT
+recorded_at: Sun, 14 May 2017 02:01:01 GMT
