@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 16 May 2017 18:01:18 GMT
+    - Wed, 17 May 2017 15:05:20 GMT
     Etag:
-    - '"1494957678"'
+    - '"1495033520"'
     Link:
     - </node/601>; rel="shortlink",</mp/kwek-hian-chuan-henry>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 16 May 2017 18:01:21 GMT
+    - Wed, 17 May 2017 15:05:25 GMT
     Date:
-    - Tue, 16 May 2017 18:01:21 GMT
+    - Wed, 17 May 2017 15:05:25 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 16 May 2017 18:01:21 GMT
+recorded_at: Wed, 17 May 2017 15:05:25 GMT
