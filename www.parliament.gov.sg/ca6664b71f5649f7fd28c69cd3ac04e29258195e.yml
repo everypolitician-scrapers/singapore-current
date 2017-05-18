@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 17 May 2017 15:10:01 GMT
+    - Thu, 18 May 2017 07:45:38 GMT
     Etag:
-    - '"1495033801"'
+    - '"1495093538"'
     Link:
     - </node/402>; rel="shortlink",</mp/lily-neo>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 17 May 2017 15:10:06 GMT
+    - Thu, 18 May 2017 07:45:44 GMT
     Date:
-    - Wed, 17 May 2017 15:10:06 GMT
+    - Thu, 18 May 2017 07:45:44 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 17 May 2017 15:10:06 GMT
+recorded_at: Thu, 18 May 2017 07:45:44 GMT
