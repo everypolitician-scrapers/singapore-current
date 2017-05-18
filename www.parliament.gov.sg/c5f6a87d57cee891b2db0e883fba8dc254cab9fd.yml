@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 17 May 2017 15:19:01 GMT
+    - Thu, 18 May 2017 07:55:45 GMT
     Etag:
-    - '"1495034341"'
+    - '"1495094145"'
     Link:
     - </node/464>; rel="shortlink",</mp/zainal-bin-sapari>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 17 May 2017 15:19:06 GMT
+    - Thu, 18 May 2017 07:55:50 GMT
     Date:
-    - Wed, 17 May 2017 15:19:06 GMT
+    - Thu, 18 May 2017 07:55:50 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 17 May 2017 15:19:06 GMT
+recorded_at: Thu, 18 May 2017 07:55:50 GMT
