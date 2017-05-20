@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 19 May 2017 23:16:48 GMT
+    - Sat, 20 May 2017 15:04:17 GMT
     Etag:
-    - '"1495235808"'
+    - '"1495292657"'
     Link:
     - </node/503>; rel="shortlink",</mp/muhamad-faisal-bin-abdul-manap>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 19 May 2017 23:16:56 GMT
+    - Sat, 20 May 2017 15:04:26 GMT
     Date:
-    - Fri, 19 May 2017 23:16:56 GMT
+    - Sat, 20 May 2017 15:04:26 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 19 May 2017 23:16:56 GMT
+recorded_at: Sat, 20 May 2017 15:04:26 GMT
