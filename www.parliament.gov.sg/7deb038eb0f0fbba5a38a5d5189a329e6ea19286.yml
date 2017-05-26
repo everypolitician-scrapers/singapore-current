@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 25 May 2017 15:13:24 GMT
+    - Fri, 26 May 2017 00:53:28 GMT
     Etag:
-    - '"1495725204"'
+    - '"1495760008"'
     Link:
     - </node/569>; rel="shortlink",</mp/chia-yong-yong>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 25 May 2017 15:13:33 GMT
+    - Fri, 26 May 2017 00:53:38 GMT
     Date:
-    - Thu, 25 May 2017 15:13:33 GMT
+    - Fri, 26 May 2017 00:53:38 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 25 May 2017 15:13:33 GMT
+recorded_at: Fri, 26 May 2017 00:53:38 GMT
