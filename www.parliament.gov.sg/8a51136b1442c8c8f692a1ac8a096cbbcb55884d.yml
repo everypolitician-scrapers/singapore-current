@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 27 May 2017 06:56:44 GMT
+    - Sun, 28 May 2017 16:25:45 GMT
     Etag:
-    - '"1495868204"'
+    - '"1495988745"'
     Link:
     - </node/610>; rel="shortlink",</mp/yee-chia-hsing>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 27 May 2017 06:56:55 GMT
+    - Sun, 28 May 2017 16:25:58 GMT
     Date:
-    - Sat, 27 May 2017 06:56:55 GMT
+    - Sun, 28 May 2017 16:25:58 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 27 May 2017 06:56:55 GMT
+recorded_at: Sun, 28 May 2017 16:25:58 GMT
