@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 30 May 2017 00:53:30 GMT
+    - Wed, 31 May 2017 18:18:12 GMT
     Etag:
-    - '"1496105610"'
+    - '"1496254692"'
     Link:
     - </node/483>; rel="shortlink",</mp/edwin-tong-chun-fai>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 30 May 2017 00:53:35 GMT
+    - Wed, 31 May 2017 18:18:19 GMT
     Date:
-    - Tue, 30 May 2017 00:53:35 GMT
+    - Wed, 31 May 2017 18:18:19 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 30 May 2017 00:53:35 GMT
+recorded_at: Wed, 31 May 2017 18:18:19 GMT
