@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 31 May 2017 18:11:35 GMT
+    - Thu, 01 Jun 2017 12:58:17 GMT
     Etag:
-    - '"1496254295"'
+    - '"1496321897"'
     Link:
     - </node/603>; rel="shortlink",</mp/louis-ng-kok-kwang>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 31 May 2017 18:11:43 GMT
+    - Thu, 01 Jun 2017 12:58:25 GMT
     Date:
-    - Wed, 31 May 2017 18:11:43 GMT
+    - Thu, 01 Jun 2017 12:58:25 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 31 May 2017 18:11:43 GMT
+recorded_at: Thu, 01 Jun 2017 12:58:25 GMT
