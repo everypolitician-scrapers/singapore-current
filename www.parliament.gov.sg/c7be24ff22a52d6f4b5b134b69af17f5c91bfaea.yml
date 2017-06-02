@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 01 Jun 2017 12:51:46 GMT
+    - Fri, 02 Jun 2017 21:19:30 GMT
     Etag:
-    - '"1496321506"'
+    - '"1496438370"'
     Link:
     - </node/494>; rel="shortlink",</mp/janil-puthucheary>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '44080'
+    - '44079'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 01 Jun 2017 12:51:55 GMT
+    - Fri, 02 Jun 2017 21:19:40 GMT
     Date:
-    - Thu, 01 Jun 2017 12:51:55 GMT
+    - Fri, 02 Jun 2017 21:19:40 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 01 Jun 2017 12:51:55 GMT
+recorded_at: Fri, 02 Jun 2017 21:19:40 GMT
