@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 10 Jun 2017 23:43:53 GMT
+    - Sun, 11 Jun 2017 21:39:03 GMT
     Etag:
-    - '"1497138233"'
+    - '"1497217143"'
     Link:
     - </node/489>; rel="shortlink",</mp/intan-azura-binte-mokhtar>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 10 Jun 2017 23:44:04 GMT
+    - Sun, 11 Jun 2017 21:39:07 GMT
     Date:
-    - Sat, 10 Jun 2017 23:44:04 GMT
+    - Sun, 11 Jun 2017 21:39:07 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 10 Jun 2017 23:44:04 GMT
+recorded_at: Sun, 11 Jun 2017 21:39:07 GMT
