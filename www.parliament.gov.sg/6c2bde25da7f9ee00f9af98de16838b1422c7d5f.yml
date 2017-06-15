@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Wed, 14 Jun 2017 15:56:30 GMT
+    - Thu, 15 Jun 2017 15:29:52 GMT
     Etag:
-    - '"1497455790"'
+    - '"1497540592"'
     Link:
     - </node/324>; rel="shortlink",</mp/lim-hng-kiang>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '43562'
+    - '43563'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Wed, 14 Jun 2017 15:56:38 GMT
+    - Thu, 15 Jun 2017 15:30:00 GMT
     Date:
-    - Wed, 14 Jun 2017 15:56:38 GMT
+    - Thu, 15 Jun 2017 15:30:00 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 14 Jun 2017 15:56:38 GMT
+recorded_at: Thu, 15 Jun 2017 15:30:00 GMT
