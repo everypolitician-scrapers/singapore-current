@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 17 Jun 2017 04:39:05 GMT
+    - Sun, 18 Jun 2017 09:37:05 GMT
     Etag:
-    - '"1497674345"'
+    - '"1497778625"'
     Link:
     - </node/478>; rel="shortlink",</mp/foo-mee-har>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 17 Jun 2017 04:39:15 GMT
+    - Sun, 18 Jun 2017 09:37:10 GMT
     Date:
-    - Sat, 17 Jun 2017 04:39:15 GMT
+    - Sun, 18 Jun 2017 09:37:10 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 17 Jun 2017 04:39:15 GMT
+recorded_at: Sun, 18 Jun 2017 09:37:10 GMT
