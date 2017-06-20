@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 19 Jun 2017 14:40:17 GMT
+    - Tue, 20 Jun 2017 13:45:57 GMT
     Etag:
-    - '"1497883217"'
+    - '"1497966357"'
     Link:
     - </node/468>; rel="shortlink",</mp/khaw-boon-wan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 19 Jun 2017 14:40:23 GMT
+    - Tue, 20 Jun 2017 13:46:05 GMT
     Date:
-    - Mon, 19 Jun 2017 14:40:23 GMT
+    - Tue, 20 Jun 2017 13:46:05 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 19 Jun 2017 14:40:23 GMT
+recorded_at: Tue, 20 Jun 2017 13:46:05 GMT
