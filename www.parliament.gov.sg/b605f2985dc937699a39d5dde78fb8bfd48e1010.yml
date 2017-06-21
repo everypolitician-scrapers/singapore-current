@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 20 Jun 2017 13:58:28 GMT
+    - Wed, 21 Jun 2017 04:01:22 GMT
     Etag:
-    - '"1497967108"'
+    - '"1498017682"'
     Link:
     - </node/426>; rel="shortlink",</mp/teo-ho-pin>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 20 Jun 2017 13:58:36 GMT
+    - Wed, 21 Jun 2017 04:01:30 GMT
     Date:
-    - Tue, 20 Jun 2017 13:58:36 GMT
+    - Wed, 21 Jun 2017 04:01:30 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 20 Jun 2017 13:58:36 GMT
+recorded_at: Wed, 21 Jun 2017 04:01:30 GMT
