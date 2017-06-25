@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 24 Jun 2017 13:04:36 GMT
+    - Sun, 25 Jun 2017 02:44:09 GMT
     Etag:
-    - '"1498309476"'
+    - '"1498358649"'
     Link:
     - </node/479>; rel="shortlink",</mp/lawrence-wong>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 24 Jun 2017 13:04:48 GMT
+    - Sun, 25 Jun 2017 02:44:22 GMT
     Date:
-    - Sat, 24 Jun 2017 13:04:48 GMT
+    - Sun, 25 Jun 2017 02:44:22 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 24 Jun 2017 13:04:48 GMT
+recorded_at: Sun, 25 Jun 2017 02:44:22 GMT
