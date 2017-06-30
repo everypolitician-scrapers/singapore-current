@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 29 Jun 2017 01:35:36 GMT
+    - Fri, 30 Jun 2017 06:33:17 GMT
     Etag:
-    - '"1498700136"'
+    - '"1498804397"'
     Link:
     - </node/294>; rel="shortlink",</mp/lee-yi-shyan>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 29 Jun 2017 01:35:44 GMT
+    - Fri, 30 Jun 2017 06:33:26 GMT
     Date:
-    - Thu, 29 Jun 2017 01:35:44 GMT
+    - Fri, 30 Jun 2017 06:33:26 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 29 Jun 2017 01:35:44 GMT
+recorded_at: Fri, 30 Jun 2017 06:33:26 GMT
