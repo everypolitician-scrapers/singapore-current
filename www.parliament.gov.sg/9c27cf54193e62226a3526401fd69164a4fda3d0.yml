@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 29 Jun 2017 01:31:35 GMT
+    - Fri, 30 Jun 2017 06:29:12 GMT
     Etag:
-    - '"1498699895"'
+    - '"1498804152"'
     Link:
     - </node/459>; rel="shortlink",</mp/halimah-yacob>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 29 Jun 2017 01:31:43 GMT
+    - Fri, 30 Jun 2017 06:29:21 GMT
     Date:
-    - Thu, 29 Jun 2017 01:31:43 GMT
+    - Fri, 30 Jun 2017 06:29:21 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 29 Jun 2017 01:31:43 GMT
+recorded_at: Fri, 30 Jun 2017 06:29:21 GMT
