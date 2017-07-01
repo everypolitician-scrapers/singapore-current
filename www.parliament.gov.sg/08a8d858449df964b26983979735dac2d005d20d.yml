@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 30 Jun 2017 06:46:09 GMT
+    - Sat, 01 Jul 2017 14:44:26 GMT
     Etag:
-    - '"1498805169"'
+    - '"1498920266"'
     Link:
     - </node/611>; rel="shortlink",</mp/melvin-yong-yik-chye>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 30 Jun 2017 06:46:18 GMT
+    - Sat, 01 Jul 2017 14:45:10 GMT
     Date:
-    - Fri, 30 Jun 2017 06:46:18 GMT
+    - Sat, 01 Jul 2017 14:45:10 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 30 Jun 2017 06:46:18 GMT
+recorded_at: Sat, 01 Jul 2017 14:45:10 GMT
