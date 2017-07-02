@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 01 Jul 2017 13:58:23 GMT
+    - Sun, 02 Jul 2017 04:15:26 GMT
     Etag:
-    - '"1498917503"'
+    - '"1498968926"'
     Link:
     - </node/594>; rel="shortlink",</mp/cheryl-chan-wei-ling>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 01 Jul 2017 13:58:34 GMT
+    - Sun, 02 Jul 2017 04:15:38 GMT
     Date:
-    - Sat, 01 Jul 2017 13:58:34 GMT
+    - Sun, 02 Jul 2017 04:15:38 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 01 Jul 2017 13:58:34 GMT
+recorded_at: Sun, 02 Jul 2017 04:15:38 GMT
