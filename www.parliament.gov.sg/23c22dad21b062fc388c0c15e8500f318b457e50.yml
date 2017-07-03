@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 02 Jul 2017 04:17:30 GMT
+    - Mon, 03 Jul 2017 00:14:02 GMT
     Etag:
-    - '"1498969050"'
+    - '"1499040842"'
     Link:
     - </node/597>; rel="shortlink",</mp/chong-kee-hiong>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '39729'
+    - '39728'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 02 Jul 2017 04:17:41 GMT
+    - Mon, 03 Jul 2017 00:14:06 GMT
     Date:
-    - Sun, 02 Jul 2017 04:17:41 GMT
+    - Mon, 03 Jul 2017 00:14:06 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 02 Jul 2017 04:17:41 GMT
+recorded_at: Mon, 03 Jul 2017 00:14:06 GMT
