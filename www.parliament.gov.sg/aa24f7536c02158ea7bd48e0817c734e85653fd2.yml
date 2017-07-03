@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 02 Jul 2017 04:32:21 GMT
+    - Mon, 03 Jul 2017 00:28:56 GMT
     Etag:
-    - '"1498969941"'
+    - '"1499041736"'
     Link:
     - </node/493>; rel="shortlink",</mp/tan-chuan-jin>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '41153'
+    - '41152'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 02 Jul 2017 04:32:32 GMT
+    - Mon, 03 Jul 2017 00:29:00 GMT
     Date:
-    - Sun, 02 Jul 2017 04:32:32 GMT
+    - Mon, 03 Jul 2017 00:29:00 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 02 Jul 2017 04:32:32 GMT
+recorded_at: Mon, 03 Jul 2017 00:29:00 GMT
