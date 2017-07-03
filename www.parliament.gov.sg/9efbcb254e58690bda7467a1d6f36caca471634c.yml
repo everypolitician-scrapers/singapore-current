@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 02 Jul 2017 04:25:44 GMT
+    - Mon, 03 Jul 2017 00:22:24 GMT
     Etag:
-    - '"1498969544"'
+    - '"1499041344"'
     Link:
     - </node/309>; rel="shortlink",</mp/sylvia-lim>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '41790'
+    - '41789'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 02 Jul 2017 04:25:55 GMT
+    - Mon, 03 Jul 2017 00:22:28 GMT
     Date:
-    - Sun, 02 Jul 2017 04:25:55 GMT
+    - Mon, 03 Jul 2017 00:22:28 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 02 Jul 2017 04:25:55 GMT
+recorded_at: Mon, 03 Jul 2017 00:22:28 GMT
