@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 06 Jul 2017 11:29:33 GMT
+    - Fri, 07 Jul 2017 00:32:29 GMT
     Etag:
-    - '"1499340573"'
+    - '"1499387549"'
     Link:
     - </node/487>; rel="shortlink",</mp/tin-pei-ling>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 06 Jul 2017 11:29:42 GMT
+    - Fri, 07 Jul 2017 00:32:38 GMT
     Date:
-    - Thu, 06 Jul 2017 11:29:42 GMT
+    - Fri, 07 Jul 2017 00:32:38 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 06 Jul 2017 11:29:42 GMT
+recorded_at: Fri, 07 Jul 2017 00:32:38 GMT
