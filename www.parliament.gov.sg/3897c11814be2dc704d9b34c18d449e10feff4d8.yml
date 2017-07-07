@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Thu, 06 Jul 2017 11:22:54 GMT
+    - Fri, 07 Jul 2017 00:25:57 GMT
     Etag:
-    - '"1499340174"'
+    - '"1499387157"'
     Link:
     - </node/508>; rel="shortlink",</mp/ong-teng-koon>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Thu, 06 Jul 2017 11:23:02 GMT
+    - Fri, 07 Jul 2017 00:26:05 GMT
     Date:
-    - Thu, 06 Jul 2017 11:23:02 GMT
+    - Fri, 07 Jul 2017 00:26:05 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 06 Jul 2017 11:23:02 GMT
+recorded_at: Fri, 07 Jul 2017 00:26:05 GMT
