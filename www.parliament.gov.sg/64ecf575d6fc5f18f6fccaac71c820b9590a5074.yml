@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Fri, 07 Jul 2017 00:14:46 GMT
+    - Sat, 08 Jul 2017 11:33:30 GMT
     Etag:
-    - '"1499386486"'
+    - '"1499513610"'
     Link:
     - </node/270>; rel="shortlink",</mp/christopher-de-souza>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Fri, 07 Jul 2017 00:14:54 GMT
+    - Sat, 08 Jul 2017 11:33:40 GMT
     Date:
-    - Fri, 07 Jul 2017 00:14:54 GMT
+    - Sat, 08 Jul 2017 11:33:40 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 07 Jul 2017 00:14:54 GMT
+recorded_at: Sat, 08 Jul 2017 11:33:40 GMT
