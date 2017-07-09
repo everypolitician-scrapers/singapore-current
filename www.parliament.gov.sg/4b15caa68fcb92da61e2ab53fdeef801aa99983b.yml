@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sat, 08 Jul 2017 11:35:12 GMT
+    - Sun, 09 Jul 2017 10:24:19 GMT
     Etag:
-    - '"1499513712"'
+    - '"1499595859"'
     Link:
     - </node/653>; rel="shortlink",</mp/ganesh-rajaram>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sat, 08 Jul 2017 11:35:24 GMT
+    - Sun, 09 Jul 2017 10:24:31 GMT
     Date:
-    - Sat, 08 Jul 2017 11:35:24 GMT
+    - Sun, 09 Jul 2017 10:24:31 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sat, 08 Jul 2017 11:35:24 GMT
+recorded_at: Sun, 09 Jul 2017 10:24:31 GMT
