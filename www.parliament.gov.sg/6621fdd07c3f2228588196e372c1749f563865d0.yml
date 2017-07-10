@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Sun, 09 Jul 2017 10:38:08 GMT
+    - Mon, 10 Jul 2017 18:34:25 GMT
     Etag:
-    - '"1499596688"'
+    - '"1499711665"'
     Link:
     - </node/609>; rel="shortlink",</mp/tan-wu-meng>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Sun, 09 Jul 2017 10:38:19 GMT
+    - Mon, 10 Jul 2017 18:34:31 GMT
     Date:
-    - Sun, 09 Jul 2017 10:38:19 GMT
+    - Mon, 10 Jul 2017 18:34:31 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 09 Jul 2017 10:38:19 GMT
+recorded_at: Mon, 10 Jul 2017 18:34:31 GMT
