@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Mon, 10 Jul 2017 18:37:01 GMT
+    - Tue, 11 Jul 2017 23:51:04 GMT
     Etag:
-    - '"1499711821"'
+    - '"1499817064"'
     Link:
     - </node/481>; rel="shortlink",</mp/vikram-nair>; rel="canonical"
     X-Generator:
@@ -38,12 +38,12 @@ response:
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Mon, 10 Jul 2017 18:37:07 GMT
+    - Tue, 11 Jul 2017 23:51:10 GMT
     Date:
-    - Mon, 10 Jul 2017 18:37:07 GMT
+    - Tue, 11 Jul 2017 23:51:10 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 10 Jul 2017 18:37:07 GMT
+recorded_at: Tue, 11 Jul 2017 23:51:10 GMT
