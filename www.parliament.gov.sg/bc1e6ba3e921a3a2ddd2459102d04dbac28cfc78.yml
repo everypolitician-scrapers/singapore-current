@@ -22,9 +22,9 @@ response:
     Content-Language:
     - en
     Last-Modified:
-    - Tue, 11 Jul 2017 23:38:41 GMT
+    - Wed, 12 Jul 2017 11:32:57 GMT
     Etag:
-    - '"1499816321"'
+    - '"1499859177"'
     Link:
     - </node/498>; rel="shortlink",</mp/desmond-lee>; rel="canonical"
     X-Generator:
@@ -34,16 +34,16 @@ response:
     Server:
     - ''
     Content-Length:
-    - '41500'
+    - '41501'
     Cache-Control:
     - no-cache, must-revalidate, post-check=0, pre-check=0
     Expires:
-    - Tue, 11 Jul 2017 23:38:47 GMT
+    - Wed, 12 Jul 2017 11:33:04 GMT
     Date:
-    - Tue, 11 Jul 2017 23:38:47 GMT
+    - Wed, 12 Jul 2017 11:33:04 GMT
     Connection:
     - keep-alive
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 11 Jul 2017 23:38:47 GMT
+recorded_at: Wed, 12 Jul 2017 11:33:04 GMT
