@@ -24,15 +24,15 @@ response:
     Connection:
     - close
     Content-Length:
-    - '822'
+    - '825'
     X-Iinfo:
-    - 4-10137517-0 0NNN RT(1505424594551 0) q(0 -1 -1 0) r(0 -1) B12(4,315,0) U18
+    - 8-21833113-0 0NNN RT(1505467134653 0) q(0 -1 -1 -1) r(0 -1) B12(4,315,0) U18
     Set-Cookie:
-    - incap_ses_124_1183001=i2W/XL+AfXs+hMPMMou4AdL0ulkAAAAAHyjQuEOrHxykbdHyFz4JXw==;
+    - incap_ses_124_1183001=g5WBJmLF1RwP9d7NMou4Af6au1kAAAAAvF2TLXOT2FHWq52DQngvIQ==;
       path=/; Domain=.parliament.gov.sg
-    - visid_incap_1183001=mFznGfXwSbWTb+3fvFwEPL30ulkAAAAAQUIPAAAAAAA8WqDb+8Gi9iz8z+/w+PjY;
+    - visid_incap_1183001=6HznsvJ8Rk+e7jdgGyCNbf6au1kAAAAAQUIPAAAAAADzhE8sBfNZeLoTrt/WCRLP;
       expires=Fri, 14 Sep 2018 14:04:35 GMT; path=/; Domain=.parliament.gov.sg
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Thu, 14 Sep 2017 21:29:54 GMT
+recorded_at: Fri, 15 Sep 2017 09:18:54 GMT
