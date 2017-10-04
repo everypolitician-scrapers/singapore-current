@@ -25,15 +25,15 @@ response:
     Cache-Control:
     - no-cache
     Content-Length:
-    - '2882'
+    - '2884'
     X-Iinfo:
-    - 9-5930240-0 0NNN RT(1507048209506 1) q(0 -1 -1 0) r(0 -1) B10(4,289,0) U18
+    - 5-12920694-0 0NNN RT(1507113897559 1) q(0 -1 -1 0) r(0 -1) B10(4,289,0) U18
     Set-Cookie:
-    - incap_ses_124_1183001=22TYQl4B9j0KddHGOYu4ARG701kAAAAAF5YlnqzPypr/oTEXqinrdA==;
+    - incap_ses_124_1183001=lhJbMx3msTIXxATJOYu4Aam71FkAAAAAXqYJtwLeI4NCe3tnipS15A==;
       path=/; Domain=.parliament.gov.sg
-    - visid_incap_1183001=5Yn7YtAwT22IqA0BrZtoQBG701kAAAAAQUIPAAAAAADZ66SOXbmTaLQpJTxgeU+Y;
-      expires=Wed, 03 Oct 2018 07:05:54 GMT; path=/; Domain=.parliament.gov.sg
+    - visid_incap_1183001=8dBl1O2TRMCNeSReJcQPo6m71FkAAAAAQUIPAAAAAABY+NmeDFz0EaLc1ZbPGMkl;
+      expires=Thu, 04 Oct 2018 07:05:32 GMT; path=/; Domain=.parliament.gov.sg
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Tue, 03 Oct 2017 16:30:09 GMT
+recorded_at: Wed, 04 Oct 2017 10:44:57 GMT
