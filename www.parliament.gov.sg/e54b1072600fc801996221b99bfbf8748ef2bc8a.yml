@@ -27,13 +27,13 @@ response:
     Content-Length:
     - '2884'
     X-Iinfo:
-    - 7-393136-0 0NNN RT(1512480136957 4) q(0 -1 -1 0) r(0 -1) B10(4,289,0) U18
+    - 14-7109301-0 0NNN RT(1512521955535 1) q(0 -1 -1 0) r(0 -1) B10(4,289,0) U18
     Set-Cookie:
-    - incap_ses_977_1183001=amUBPTTTpV4/R+rVWQCPDYidJloAAAAAx/RVbL1PC68IVU6/1vy8vg==;
+    - incap_ses_977_1183001=yTsHIOF4qTegrpvWWQCPDeNAJ1oAAAAAZluk9TgVXJV5VeyMbnE5gw==;
       path=/; Domain=.parliament.gov.sg
-    - visid_incap_1183001=RDObWsadSxaYy4/U4ymh1oidJloAAAAAQUIPAAAAAAA4TTuNVk62RZ3zfm9UlROA;
-      expires=Wed, 05 Dec 2018 09:01:27 GMT; path=/; Domain=.parliament.gov.sg
+    - visid_incap_1183001=UUFuouS+SvG2QEahOUZtCONAJ1oAAAAAQUIPAAAAAABR1+oRwqNiUh9F5Wy+t0BD;
+      expires=Wed, 05 Dec 2018 09:01:34 GMT; path=/; Domain=.parliament.gov.sg
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Tue, 05 Dec 2017 13:22:17 GMT
+recorded_at: Wed, 06 Dec 2017 00:59:15 GMT
